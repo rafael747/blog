@@ -48,10 +48,14 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Technology
-    url:               /tech/
   - title:             All Posts
     url:               /
+  - title:             Technology
+    url:               /tech/
+  - title:             DIY Stuff
+    url:               /diy/
+  - title:             Food Recipes
+    url:               /food/
   - title:             About
     url:               /about/
 
