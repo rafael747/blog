@@ -22,7 +22,7 @@ image: /assets/img/blog/hydejack-8.png
 Rafael Carreira (Teffa)
 {:.lead}
 
-![Screenshot](/assets/img/me.jpg){:.lead}
+![small](/assets/img/me.jpg){:.lead}
 Me at my work space.
 {:.figure}
 
@@ -30,4 +30,4 @@ I have a degree in computer science at UNESP / IBILCE and I have specifics with 
 
 * * *
 
-Credits to [João Paulo Simoões](https://www.linkedin.com/in/joao-paulo-sim%C3%B5es-88904018a/) for the ceiling art.
+Credits to [João Paulo Simões](https://www.linkedin.com/in/joao-paulo-sim%C3%B5es-88904018a/) for the ceiling art.

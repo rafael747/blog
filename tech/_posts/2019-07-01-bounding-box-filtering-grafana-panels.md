@@ -5,7 +5,6 @@ description: >
   If you can filter a panel by time, why not to use a bounding box?
 image: /assets/img/grafana_bbox/regular_panel.png
 noindex: true
-comments: true
 ---
 
 Today at work I had to create some dynamic panels in Grafana for a project involving some geometry data in Postgresql (Postgis). Most of the data are polygons, with some meta data related to them.
