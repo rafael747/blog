@@ -2,10 +2,9 @@
 layout: post
 title: Mirror a remote Postgresql table (dblink + materialized views)
 description: >
-  Keep a local mirrored table of a remote Postgresql server.
+  Keep a local mirrored table of a remote PostgreSQL server.
 image: /assets/img/postgres-remote-table/postgres-logo.png
 noindex: true
-comments: true
 ---
 
 It is very useful to have a local version of a production table in a local server. Among some reasons, we have:
@@ -20,15 +19,49 @@ To achieve this, we can make use of some cool postgresql features:
  - materialized views;
  - postgis extension (when dealing with GIS data)
 
-With this, we can maintaing a local mirrored version of a remote database table. This way, you can refresh the data easily, to keep it updated with the remote database.
+With this setup, we can maintaing a local mirrored version of a remote database table. We can also refresh the data easily, to keep it updated with the remote database.
 
-## dblink extension
- 
-Today at work I had to create some dynamic panels in Grafana for a project involving some geometry data in Postgresql (Postgis). Most of the data are polygons, with some meta data related to them.
- 
-Since we already use Mapserver with Postgresql for managing layers, it would be very natural to use the bounding box filtering, just like in WMS layers. This allow us to display statistics for some specific region of interest.
+## DBLINK EXTENSION
 
-This feature, along with embed panels (via iframe) would totally solve the problem. However, how to achieve such feature in Grafana? 
+**dblink** is a module that supports connections to other PostgreSQL databases from within a database session.
+
+Enable the extension with:
+
+```sql
+CREATE EXTENSION dblink;
+```
+
+dblink executes a query (usually a SELECT, but it can be any SQL statement that returns rows) in a remote database.
+
+```sql
+SELECT * FROM 
+  dblink('dbname=otherdb hostaddr=otherhost user=otheruser password=otherpass options=-csearch_path=',
+         'select proname, prosrc from pg_proc')
+AS t1(proname name, prosrc text);
+```
+More info about the dblink extension [here](https://www.postgresql.org/docs/10/contrib-dblink-function.html).
+
+## MATERIALIZED VIEWS
+
+Materialized views in PostgreSQL use the rule system like views do, but persist the results in a table-like form. The main differences between:
+
+```sql
+CREATE MATERIALIZED VIEW mymatview AS SELECT * FROM mytab;
+```
+
+and:
+
+```sql
+CREATE TABLE mymatview AS SELECT * FROM mytab;
+```
+
+are that the materialized view cannot subsequently be directly updated and that the query used to create the materialized view is stored in exactly the same way that a view's query is stored, so that fresh data can be generated for the materialized view with:
+
+```sql
+REFRESH MATERIALIZED VIEW mymatview;
+```
+
+More info about materialized views [here](https://www.postgresql.org/docs/10/rules-materializedviews.html).
 
 ## Creating a panel
 
