@@ -3,7 +3,7 @@ layout: post
 title: Homemade Chess Table
 description: >
   I was not sure if this was going to work..
-image: https://lh6.googleusercontent.com/a155FFX75wonpC2b-eGNl9Z2g6lgXM1dH069gpDZB6-4VvbHtOGppkBj9HrzScsAr6F1Rbeq4EsQaA=w1920-h938
+image: https://drive.google.com/uc?export=view&id=1qu8F8Rto6EgH3zwghNH8SdKG8MlBwTjV
 noindex: true
 ---
 
