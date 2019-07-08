@@ -12,8 +12,8 @@ In the same moment I knew I had to make my own too.
 
 ## The approch
 
-I don't have the right tools to work with wood yet. That way, cutting the wood into little squares by hand would probally lead to a poor job.
-So, I got an ideia to use a MDF board of the right size and use table edge tape cutted into squares to make the chess positions.
+I don't have the right tools to work with wood yet. That way, cutting the wood into little squares by hand would probably lead to a poor job.
+So, I got the idea to use an MDF board of the right size and use table edge tape cut into squares to make chess positions.
 
   - No wood cutting necessary
 
@@ -24,7 +24,7 @@ So, I got an ideia to use a MDF board of the right size and use table edge tape 
 |Table Edge - color 1 | 120 cm x 35 mm | R$6 |
 |Table Edge - color 2 | 120 cm x 35 mm | R$6 |
 |Table Edge - edges | 132 cm x 22 mm | R$6,5 |
-|Table Edge - top | 132 cm x 22 mm | R$6,5 |
+|Table Edge - sides | 132 cm x 22 mm | R$6,5 |
 |Contact Glue | 200g | R$10 |
 |**TOTAL**| | R$40 (~ $10)|
 
@@ -40,26 +40,33 @@ So, I got an ideia to use a MDF board of the right size and use table edge tape 
 draft for bonding
 {:.figure}
 
-#table 3
 ![](https://drive.google.com/uc?export=view&id=1zJHXbj-mxgpxm-sqw14swP1K9sA7sm2w)
+plate after contact glue
+{:.figure}
 
-#table 4
 ![](https://drive.google.com/uc?export=view&id=11jmki50k0k5c4d3LLBHcZanjKF4L_FdJ)
+pasting squares
+{:.figure}
 
-#table 5
 ![](https://drive.google.com/uc?export=view&id=18lVNw4vLf4Ogr-vrlS-vqs6MP1wOM4lj)
+done with the squares
+{:.figure}
 
-#table 6
 ![](https://drive.google.com/uc?export=view&id=11n6PbIdwO3e0sAMpy4MfJ1h8eQg0UUdO)
+now the sides
+{:.figure}
 
-#table 7
 ![](https://drive.google.com/uc?export=view&id=183PaQAXzAXeqwmBJBgW9xeYC2kzogWZU)
+and the edges
+{:.figure}
 
-#table 8
 ![](https://drive.google.com/uc?export=view&id=1uFuIQMbPVispAKb4LWNCzk1DZXZZRIQk)
+time to remove the left overs
+{:.figure}
 
-#table 9
 ![](https://drive.google.com/uc?export=view&id=17M7UojRaz55UWfKCZjpbhw82sxRFf53u)
+the final result
+{:.figure}
 
 * * * 
 
