@@ -70,5 +70,5 @@ the final result
 
 * * * 
 
-Thanks to Rafael Medeiros for the idea and for lending me a paper guillotine to cut the table edge squares.
+Thanks to Rafael Medeiros for the idea and help.
 

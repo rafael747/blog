@@ -57,7 +57,7 @@ menu:
   - title:             Food Recipes
     url:               /food/
   - title:             About
-    url:               /about/
+    url:               /ops
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
