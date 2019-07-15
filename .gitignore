@@ -33,6 +33,7 @@ node_modules
 # Jekyll
 _site
 .sass-cache
+!_site/_redirects
 
 # macOS
 .DS_Store
