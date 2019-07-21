@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a31b458f-142d-44c6-b9af-49e91265b275/deploy-status)](https://app.netlify.com/sites/ecstatic-brown-d75296/deploys)
 
-My personal blog at: [https://teffa.online](https://teffa.online)
+My personal blog at: [https://teffa.dev](https://teffa.dev)
 
 ## Quick Start
 ### Running locally
