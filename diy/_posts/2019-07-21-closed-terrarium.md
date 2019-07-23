@@ -45,5 +45,5 @@ alter one week
 
 * * * 
 
-Thanks to Amanda Emily for the idea.
+Thanks to Amanda Emilly for the idea.
 
