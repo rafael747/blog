@@ -32,7 +32,7 @@ done
 {:.figure}
 
 ![](https://drive.google.com/uc?export=view&id=16gvgMPIpsC3uD9xR6NGncb5UdZ-mSMZE)
-on the table
+2019-07-14
 {:.figure}
 
 ![](https://drive.google.com/uc?export=view&id=1UwMHWZVIhOln1hYjNi7xqTgs9c-N8Rgl)
@@ -40,7 +40,23 @@ after some time
 {:.figure}
 
 ![](https://drive.google.com/uc?export=view&id=18RKg8PX-At-Yl689Jk7uoej9by-vtNz3)
-alter one week
+2019-07-21
+{:.figure}
+
+![](https://drive.google.com/uc?export=view&id=1txhyCBKf3crcYLnPg2bxoq7ELFdMMjQ_)
+2019-07-27
+{:.figure}
+
+![](https://drive.google.com/uc?export=view&id=1UgpG62B8t60uEXbVZsGjg9C7GCKxRAYZ)
+2019-08-13 (????)
+{:.figure}
+
+![](https://drive.google.com/uc?export=view&id=1SGiHbJFSc4Wef9V_wuMG-rBwYSyD7oS2)
+2019-08-25
+{:.figure}
+
+![](https://drive.google.com/uc?export=view&id=1FBW7rvVNwr3xi9izG-W63n4qzceOAZ2k)
+2019-09-01
 {:.figure}
 
 * * * 
