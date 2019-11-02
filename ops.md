@@ -22,7 +22,7 @@ Rafael Carreira (Teffa)
 {:.lead}
 
 ![small](/assets/img/me.jpg){:.lead}
-Me at my work space.
+Me at my workspace.
 {:.figure}
 
 I have a degree in computer science at UNESP / IBILCE and I have specifics with security in computer networks and infrastructure. Lately I've been working a lot with GIS data. In addition to technology, I really enjoy DIY and cooking crafts.
@@ -68,9 +68,11 @@ __ETEC Philadelpho Golvea Neto__. Technical computer course.
 ## Areas of Expertise
 
  * Unix/Windows Server and network security
+ * Server, Network and log monitoring
  * GIS and Climate data
  * Webhosting/Email technologies 
  * Containers and Virtualization
+ * Deployment, migration and backup routines.
 
 * * *
 Credits to [João Paulo Simões](https://www.linkedin.com/in/joao-paulo-sim%C3%B5es-88904018a/) for the ceiling art.
