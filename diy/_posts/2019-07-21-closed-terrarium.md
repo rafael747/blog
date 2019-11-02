@@ -59,6 +59,14 @@ after some time
 2019-09-01
 {:.figure}
 
+![](https://drive.google.com/uc?export=view&id=1o0Rs7PoZgL0-GSUU2ZQNpQxnFu5cI7o5)
+2019-10-09
+{:.figure}
+
+![](https://drive.google.com/uc?export=view&id=1VK4Co-Abq2kWjAgviw7rJmB4s8N4fXJM)
+2019-10-25
+{:.figure}
+
 * * * 
 
 Thanks to Amanda Emilly for the idea.
