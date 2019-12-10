@@ -55,15 +55,13 @@ __ETEC Philadelpho Golvea Neto__. Technical computer course.
 ## Technical Skills
 
  * Bash/Python scripting
- * Zabbix 
+ * Zabbix Graylog and Grafana for monitoring
  * Docker and Swarm
- * Git
- * Grafana 
- * Graylog
- * PostgreSQL (Postgis)
- * QuantumGIS
- * AWS (RDS/EC2/S3/Lambda/Route53)
+ * Git, Ansible and Terraform (CI/CD pipelines)
+ * QGIS, Mapserver and PostgreSQL (Postgis)
+ * Proxmox and KVM for on-premisse and AWS for cloud services
  * Network tools (nmap, tcpdump, netcat, etc..)
+ * GIS tools (ogr/gdal, cdo, etc.. )
 
 ## Areas of Expertise
 
