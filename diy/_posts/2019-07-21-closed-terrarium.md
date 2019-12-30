@@ -67,6 +67,18 @@ after some time
 2019-10-25
 {:.figure}
 
+![](https://drive.google.com/uc?export=view&id=1ktc6VvdCvEywomEXOuBuQNBfvxyaQKLX)
+2019-11-25
+{:.figure}
+
+![](https://drive.google.com/uc?export=view&id=18cxxIztORACmd0VrRzWmZ9hPQzqCxxsC)
+2019-11-29
+{:.figure}
+
+![](https://drive.google.com/uc?export=view&id=1i-5hjUpsAuqKwgx6s_oW0wa0hV9F-mZ6)
+2019-12-10
+{:.figure}
+
 * * * 
 
 Thanks to Amanda Emilly for the idea.
