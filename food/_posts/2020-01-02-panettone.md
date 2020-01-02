@@ -13,7 +13,7 @@ It takes a little time, but it's not hard to do.
 
 ## Yeast mix 
 
-  - 60g all-purpose flour
+  - 60g flour
   - 60g yeast
   - 15g sugar
   - 80ml warm water
@@ -40,6 +40,7 @@ It takes a little time, but it's not hard to do.
   - Add the chocolatte/fruits and divide the dough in the panettone tins
   - Let it rise again for about 50 minutes. Preheat the oven to 180 ºC (~356ºF)
   - Bake for about 35 minutes, until the crust is golden
+  - While still warm put a barbecue stick at the base of them and turn them upside down, supported by a bowl, this will make them not wither
 
 * * * 
 
@@ -50,6 +51,7 @@ It takes a little time, but it's not hard to do.
 ![](https://drive.google.com/uc?export=view&id=1uEGsMOeK7EdGTn-gqePKJZvm3e1b-Bnx)
 ![](https://drive.google.com/uc?export=view&id=1ONfsJqZ_q0qRmh8lPGuVSDTkP_yaGzlG)
 ![](https://drive.google.com/uc?export=view&id=1fYC-O9eDtvklihPe5raSyQHTSSB--04F)
+![](https://drive.google.com/uc?export=view&id=18yuoE3R777DYgme6gKW3IzjwXV3gFisA)
 ![](https://drive.google.com/uc?export=view&id=13fzwdtpVZ1OZkfP-SlxPEe8b5DXcjb1M)
 ![](https://drive.google.com/uc?export=view&id=1gMIJypf3vHFKrru-epxcdnNnxybsJaUO)
 ![](https://drive.google.com/uc?export=view&id=114yoCE-h4IlhVG6zXYKkkFmnuurQTSyI)
