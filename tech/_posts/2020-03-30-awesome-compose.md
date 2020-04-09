@@ -39,7 +39,7 @@ cd awesome-compose
 At the root of each sample there is the **docker-compose.yml**. It contains the definition and the structure of the application and instructions on how to wire the components of the application.
 
 
-## To the samples ##
+## nginx-flask-mysql sample ##
 
 To start a sample stack with nginx, a flask app and mysql database, you can do the following 
 
@@ -70,11 +70,50 @@ Once you made modification to the sample, you can restart the services
 docker-compose restart backend 		#to restart the service named backend
 ```
 
-You can also use the the following to bring the whole stack down and up again
+If you have made modifications in the **Dockerfile**, you will need to do the following to bring the whole stack down, and build the docker image again.
 
 ```
 docker-compose down
-docker-compose up -d
+docker-compose up -d --build
 ```
+
+## Samples of Docker Compose applications with multiple integrated services
+
+- [`ASP.NET / MS-SQL`](https://github.com/docker/awesome-compose/tree/master/aspnet-mssql) - Sample ASP.NET core application
+with MS SQL server database.
+- [`Go / NGINX / MySQL`](https://github.com/docker/awesome-compose/tree/master/nginx-golang-mysql) - Sample Go application
+with an Nginx proxy and a MySQL database.
+- [`Go / NGINX / PostgreSQL`](https://github.com/docker/awesome-compose/tree/master/nginx-golang-postgres) - Sample Go
+application with an Nginx proxy and a PostgreSQL database.
+- [`Java Spark / MySQL`](https://github.com/docker/awesome-compose/tree/master/sparkjava-mysql) - Sample Java application and
+a MySQL database.
+- [`NGINX / Flask / MongoDB`](https://github.com/docker/awesome-compose/tree/master/nginx-flask-mongo) - Sample Python/Flask
+application with Nginx proxy and a Mongo database.
+- [`NGINX / Flask / MySQL`](https://github.com/docker/awesome-compose/tree/master/nginx-flask-mysql) - Sample Python/Flask
+application with an Nginx proxy and a MySQL database.
+- [`NGINX / Go`](https://github.com/docker/awesome-compose/tree/master/nginx-golang) - Sample Nginx proxy with a Go backend.
+- [`React / Spring / MySQL`](https://github.com/docker/awesome-compose/tree/master/react-java-mysql) - Sample React
+application with a Spring backend and a MySQL database.
+- [`React / Express / MySQL`](https://github.com/docker/awesome-compose/tree/master/react-express-mysql) - Sample React
+application with a Node.js backend and a MySQL database.
+- [`React / Rust / PostgreSQL`](https://github.com/docker/awesome-compose/tree/master/react-rust-postgres) - Sample React
+application with a Rust backend and a Postgres database.
+- [`Spring / PostgreSQL`](https://github.com/docker/awesome-compose/tree/master/spring-postgres) - Sample Java application
+with Spring framework and a Postgres database.  
+## Single service samples
+- [`Angular`](https://github.com/docker/awesome-compose/tree/master/angular)
+- [`Spark`](https://github.com/docker/awesome-compose/tree/master/sparkjava)
+- [`VueJS`](https://github.com/docker/awesome-compose/tree/master/vuejs)
+- [`Flask`](https://github.com/docker/awesome-compose/tree/master/flask)
+- [`PHP`](https://github.com/docker/awesome-compose/tree/master/apache-php)
+- [`Traefik`](https://github.com/docker/awesome-compose/tree/master/traefik-golang)
+- [`Django`](https://github.com/docker/awesome-compose/tree/master/django)
+## Basic setups for different platforms (not production ready - useful for personal use) 
+- [`Gitea / PostgreSQL`](https://github.com/docker/awesome-compose/tree/master/gitea-postgres)
+- [`Nextcloud / PostgreSQL`](https://github.com/docker/awesome-compose/tree/master/nextcloud-postgres)
+- [`Nextcloud / Redis / MariaDB`](https://github.com/docker/awesome-compose/tree/master/nextcloud-redis-mariadb)
+- [`Wordpress / MySQL`](https://github.com/docker/awesome-compose/tree/master/wordpress-mysql)
+- [`Prometheus / Grafana`](https://github.com/docker/awesome-compose/tree/master/prometheus-grafana)
+
 
 * * *
