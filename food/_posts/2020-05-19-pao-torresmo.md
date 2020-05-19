@@ -54,3 +54,6 @@ dried tomato version
 It goes very well with guacamole
 {:.figure}
 
+* * *
+
+Thanks to Matheus Gonçalves (Zum) for talking about this recipe (but he never brought it to us)
