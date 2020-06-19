@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Camping in Marília - SP
+title: 2020-05-09 Camping Gruta de Moabi - Marília - SP
 description: >
   This was my first time camping, It was a great experience, already looking for the next one.
 image: https://drive.google.com/uc?export=view&id=1x7hzFLVz1pMjpUmLhXVDuEgHYcq6RCJW

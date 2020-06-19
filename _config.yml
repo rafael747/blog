@@ -32,7 +32,7 @@ tagline:               >
   A blog about technology, DIY, food recipes, places and so on..
 
 # A list of keywords for your blog
-keywords:              [tech,diy,food,places,events]
+keywords:              [tech,diy,food,places,events,hiking,camping]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -52,6 +52,8 @@ menu:
     url:               /
   - title:             Technology
     url:               /tech/
+  - title:             Hiking & Camping
+    url:               /hiking/
   - title:             DIY Stuff
     url:               /diy/
   - title:             Food Recipes
