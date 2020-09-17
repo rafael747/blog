@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 2020-08-02 Camping Vila Azul - SJRP - SP
+title: 2020-08-02 Camping SJRP - SP
 description: >
 image: https://drive.google.com/uc?export=view&id=1KM5aXQKbelLFicootH_NcAgUl6tu0xkv
 noindex: true
 ---
 
-Camping in Vila Azul - SJRP - SP 
+Camping in SJRP - SP 
 
 ![](https://drive.google.com/uc?export=view&id=19POVo2ROLNb8NBeaCSqa0vSxTA91vRlX)
 
