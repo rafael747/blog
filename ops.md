@@ -9,7 +9,7 @@ title: About
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  I am Rafael Carreira from Brazil. I have a degree in computer science at UNESP / IBILCE and I have specifics with security in computer networks and infrastructure. Lately I’ve been working a lot with GIS data. In addition to technology, I really enjoy DIY and cooking crafts
+  I am Rafael Carreira from Brazil. I have a degree in computer science at UNESP / IBILCE and I have specifics with security in computer networks and infrastructure. In addition to technology, I really enjoy DIY stuff, cooking crafts, hiking and camping.
 
 # You can show the description on the page by deleting this line:
 hide_description: true
@@ -21,21 +21,24 @@ image: /assets/img/blog/hydejack-8.png
 Rafael Carreira (Teffa)
 {:.lead}
 
-![small](/assets/img/me.jpg){:.lead}
-Me at my workspace.
+![small](https://drive.google.com/uc?export=view&id=16htl1OIvwGGXxRYbk6YsunG0PnqUZG4Z){:.lead}
+Camping with @danigarbiatti.
 {:.figure}
 
-I have a degree in computer science at UNESP / IBILCE and I have specifics with security in computer networks and infrastructure. Lately I've been working a lot with GIS data. In addition to technology, I really enjoy DIY and cooking crafts.
+I have a degree in computer science at UNESP / IBILCE and I have specifics with security in computer networks and infrastructure. In addition to technology, I really enjoy DIY stuff, cooking crafts, hiking and camping.
 
 * * *
 
 ## Currently
 
-I'm a sysadmin/devops engineer at GMG Internet Services. A medium size company with a lot of expertise in satellite imagery and climate data related to agronomy. I also research and help to develop new products based on satellite and weather radar GIS data.
+I'm a Software DevOps Engineer at Philips, a leading health technology company focused on improving people's health and enabling better outcomes across the health continuum from healthy living and prevention, to diagnosis, treatment and home care.
 
 ## Employment
 
-`2018-now`
+`2020-now`
+__Philips__. System Analyst and Software DevOps Engineer.
+
+`2018-2020`
 __GMG Internet Services__. Sysadmin/DevOps Engineer with GIS enfasis.
 
 `2017-2018`
@@ -57,7 +60,7 @@ __ETEC Philadelpho Golvea Neto__. Technical computer course.
  * Bash/Python scripting
  * Zabbix, Graylog and Grafana for monitoring
  * Docker and Swarm
- * Git, Ansible and Terraform (CI/CD pipelines)
+ * Jenkins, Git, Ansible and Terraform (CI/CD pipelines)
  * QGIS, Mapserver and PostgreSQL (Postgis)
  * Proxmox and KVM for on-premisse and AWS for cloud services
  * Network tools (nmap, tcpdump, netcat, etc..)
@@ -67,10 +70,11 @@ __ETEC Philadelpho Golvea Neto__. Technical computer course.
 
  * Unix/Windows Server and network security
  * Server, Network and log monitoring
- * GIS and Climate data
- * Webhosting/Email technologies 
+ * CI/CD Pipelines and Automation
  * Containers and Virtualization
- * Deployment, migration and backup routines.
+ * Deployment, migration and backup routines
+ * Webhosting/Email technologies 
+ * GIS and Climate data
+
 
 * * *
-Credits to [João Paulo Simões](https://www.linkedin.com/in/joao-paulo-sim%C3%B5es-88904018a/) for the ceiling art.
