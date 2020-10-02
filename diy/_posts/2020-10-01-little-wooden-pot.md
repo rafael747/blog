@@ -29,4 +29,4 @@ I have a few wood pieces around (gift of a friend), so I decided to make a woode
 
 * * * 
 
-Thanks for Murilo for the spare wood pieces
+Thanks to Murilo for the spare wood pieces
