@@ -6,7 +6,7 @@ image: https://drive.google.com/uc?export=view&id=1RhnkavWJQbTJcQT-SpBmYNHgmv3Dd
 noindex: true
 ---
 
-Caminho da alma is a anual hikking event that take place in São José do Rio Preto - SP.
+Caminho da alma is a anual hikking event that takes place in São José do Rio Preto - SP.
 
 Every year has a few changes, like the destination city, but it always has its traditional 40km length (about 25 miles)
 
