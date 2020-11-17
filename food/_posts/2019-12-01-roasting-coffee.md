@@ -36,7 +36,7 @@ A friend of mine invited me to help him with his coffee. He has some coffee plan
 
 ![](https://drive.google.com/uc?export=view&id=1bVVWstzM1_hYNqY-JBbIILVFCBJ3_m53)
 
-<iframe src="https://drive.google.com/file/d/11iUuY0-5Yk0KHtQECtyMHdwZutmC41dJ/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/11iUuY0-5Yk0KHtQECtyMHdwZutmC41dJ/preview" class="is-fullwidth" height="480"></iframe>
 
 * * * 
 
