@@ -6,7 +6,7 @@ image: https://drive.google.com/uc?export=view&id=1OsDtWXk0v6Zrly1AoHfAisJ-6u_lO
 noindex: true
 ---
 
-This was our first trekking, there aren't a better place to have this great experience.
+This was our first trekking, there isn't a better place to have this great experience.
 It was a weekend trip, but it was amazing and we learned a lot.
 
 There is an episode on Dani's podcast about this trekking. For this episode in spotify (and more) click [here](https://open.spotify.com/episode/4GxJO8QaukzJlwiwVk47LQ?si=R2Hz7MwyS8yFbOLzpGwmLg)
@@ -53,7 +53,7 @@ This is where we had our first break and stopped for lunch.
 
 ![](https://drive.google.com/uc?export=view&id=15G2eAJ7lxYV-xKYnofBKVYkt03pIz9eA)
 
-After a while we continued our journey, there were a lot to walk yet.
+After a while we continued our journey, there was a lot to walk yet.
 
 ![](https://drive.google.com/uc?export=view&id=1DQJBPMYC679bfQAWve4sKYnwskgl_OHa)
 
@@ -69,7 +69,7 @@ It was a very hot day and we needed to cool down in the waterfalls in the path.
 
 ![](https://drive.google.com/uc?export=view&id=1DZngxuChM5Sd9oA5CfStpQRIsnGZs034)
 
-We keep climbing even higher.
+We kept climbing even higher.
 
 ![](https://drive.google.com/uc?export=view&id=1aBnjQ0O3CaRALM3B51IKs6irvYvn7Lrh)
 
@@ -112,7 +112,7 @@ They helped us a lot, without the ride we would not get there in time to see thi
 
 ![](https://drive.google.com/uc?export=view&id=1PORIMX8jRZ6sTCTLzySDgyxGDRUYmXzJ)
 
-We set up out tend very quickly and even had some time to drink wine and talk with this amazing couple.
+We set up our tend very quickly and even had some time to drink wine and talk with this amazing couple.
 
 
 ![](https://drive.google.com/uc?export=view&id=1T1QNCwuCY-FWWghP52lUODRP8DSVUEdx)
@@ -122,7 +122,7 @@ After a while they had to go away, leaving us alone to enjoy that wonderful view
 
 ![](https://drive.google.com/uc?export=view&id=1eXWQThnDH2VyeIsa7feaaiUy6TAuIYTZ)
 
-We were very tired, so we didn't take long to fall asleep. The heavy winds scare us a bit in the night, but we could get a good night of sleep.
+We were very tired, so we didn't take long to fall asleep. The heavy winds scared us a bit in the night, but we could get a good night of sleep.
 
 ![](https://drive.google.com/uc?export=view&id=1M8Hrg43e36UaPa9elpn7WYlxDvWejaml)
 
@@ -140,7 +140,7 @@ After a while we figured out the reason, the biker probably set a place next to 
 
 ![](https://drive.google.com/uc?export=view&id=1L7YplPoWVfALuJxof8ULc1uDBzWJ3-Lp)
 
-It is unbelievable that someone would do such a thing like that. We were very worried to pass on that place because of the fire, but we hurry to get to the other side as soon as possible. After all, it was the only way available for us.
+It is unbelievable that someone would do such a thing like that. We were very worried to pass on that place because of the fire, but we hurried to get to the other side as soon as possible. After all, it was the only way available for us.
 
 ![](https://drive.google.com/uc?export=view&id=1O_U9y9cJyiEdjhYMU2BG0cB_Q4WdaJmV)
 
@@ -152,7 +152,7 @@ Also at the Claro complex we had lunch and rested a bit in the waterfalls.
 
 ![](https://drive.google.com/uc?export=view&id=157reUqESvlOJ8tBgr7--KVS_edjqdBX5)
 
-And then we keep our hiking to the camping site. That was a very hot day and the sun was burning like hell!
+And then we kept our hiking to the camping site. That was a very hot day and the sun was burning like hell!
 
 ![](https://drive.google.com/uc?export=view&id=1eYYaiV6jquhc7oSMPLCDdH0fg6L9dT4L)
 
