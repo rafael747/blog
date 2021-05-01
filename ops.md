@@ -31,11 +31,14 @@ I have a degree in computer science at UNESP / IBILCE and I have specifics with 
 
 ## Currently
 
-I'm a Software DevOps Engineer at Philips, a leading health technology company focused on improving people's health and enabling better outcomes across the health continuum from healthy living and prevention, to diagnosis, treatment and home care.
+I'm a DevOps Engineer at Global Savings Group, Europe’s leading shopping rewards company that empowers people to shop in a smarter way.
 
 ## Employment
 
-`2020-now`
+`2021-now`
+__Global Savings Group__. DevOps Engineer.
+
+`2020-2021`
 __Philips__. System Analyst and Software DevOps Engineer.
 
 `2018-2020`
@@ -60,7 +63,7 @@ __ETEC Philadelpho Golvea Neto__. Technical computer course.
  * Bash/Python scripting
  * Zabbix, Graylog and Grafana for monitoring
  * Docker and Swarm
- * Jenkins, Git, Ansible and Terraform (CI/CD pipelines)
+ * Jenkins, Git, Ansible and CloudFormation (CI/CD pipelines)
  * QGIS, Mapserver and PostgreSQL (Postgis)
  * Proxmox and KVM for on-premisse and AWS for cloud services
  * Network tools (nmap, tcpdump, netcat, etc..)
@@ -75,6 +78,5 @@ __ETEC Philadelpho Golvea Neto__. Technical computer course.
  * Deployment, migration and backup routines
  * Webhosting/Email technologies 
  * GIS and Climate data
-
 
 * * *
