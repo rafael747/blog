@@ -6,9 +6,15 @@
 My personal blog at: [https://teffa.dev](https://teffa.dev)
 
 ## Quick Start
-### Running locally
+### Getting the code
 1. Clone repository (git users), or [download] and unzip.
 2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. `bundle install` [^1]
-4. `bundle exec jekyll serve`
-5. Open <http://localhost:4000/>
+### Running locally using ruby
+1. `bundle install`
+2. `bundle exec jekyll serve`
+3. Open <http://localhost:4000/>
+### Running locally using docker
+1. `docker-compose up`
+2. Open <http://localhost:4000/>
+
+
