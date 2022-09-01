@@ -112,7 +112,7 @@ They helped us a lot, without the ride we would not get there in time to see thi
 
 ![](https://drive.google.com/uc?export=view&id=1PORIMX8jRZ6sTCTLzySDgyxGDRUYmXzJ)
 
-We set up our tend very quickly and even had some time to drink wine and talk with this amazing couple.
+We set up our tent very quickly and even had some time to drink wine and talk with this amazing couple.
 
 
 ![](https://drive.google.com/uc?export=view&id=1T1QNCwuCY-FWWghP52lUODRP8DSVUEdx)
