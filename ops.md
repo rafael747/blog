@@ -31,11 +31,11 @@ I have a degree in computer science at UNESP / IBILCE and I have specifics with 
 
 ## Currently
 
-I'm a DevOps Engineer at Global Savings Group, Europe’s leading shopping rewards company that empowers people to shop in a smarter way.
+I'm a DevOps Engineer at Limehome, We aim to be the largest European digital hospitality brand that provides the quality and consistency of a casual premium hotel room experience while retaining a fully digital customer.
 
 ## Employment
 
-`2021-now`
+`2021-2023`
 __Global Savings Group__. DevOps Engineer.
 
 `2020-2021`
