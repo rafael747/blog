@@ -3,7 +3,7 @@ layout: post
 title: Panettone
 description: >
   Classic Christmas recipe
-image: https://drive.google.com/uc?export=view&id=1fYC-O9eDtvklihPe5raSyQHTSSB--04F
+image: https://drive.google.com/thumbnail?sz=w1000&id=1fYC-O9eDtvklihPe5raSyQHTSSB--04F
 noindex: true
 ---
 
@@ -44,15 +44,15 @@ It takes a little time, but it's not hard to do.
 
 * * * 
 
-![](https://drive.google.com/uc?export=view&id=1e6SN0lY8We7Qt3jtytqynWoIK6-aQPDz)
-![](https://drive.google.com/uc?export=view&id=1kr_AR7AIPnf9P6LeWbH-AFHYJZnwYCEn)
-![](https://drive.google.com/uc?export=view&id=1w-q3Oc4TrDvV0Vv49Qx0_QZhsb25wSFA)
-![](https://drive.google.com/uc?export=view&id=1dCesnR-le8Zm1obQ56KSYq6ZJRKbhUjS)
-![](https://drive.google.com/uc?export=view&id=1uEGsMOeK7EdGTn-gqePKJZvm3e1b-Bnx)
-![](https://drive.google.com/uc?export=view&id=1ONfsJqZ_q0qRmh8lPGuVSDTkP_yaGzlG)
-![](https://drive.google.com/uc?export=view&id=1fYC-O9eDtvklihPe5raSyQHTSSB--04F)
-![](https://drive.google.com/uc?export=view&id=18yuoE3R777DYgme6gKW3IzjwXV3gFisA)
-![](https://drive.google.com/uc?export=view&id=13fzwdtpVZ1OZkfP-SlxPEe8b5DXcjb1M)
-![](https://drive.google.com/uc?export=view&id=1gMIJypf3vHFKrru-epxcdnNnxybsJaUO)
-![](https://drive.google.com/uc?export=view&id=114yoCE-h4IlhVG6zXYKkkFmnuurQTSyI)
-![](https://drive.google.com/uc?export=view&id=1gKEoY1Y3kyJHIOA-l6AKm3F7g9s_Zcat)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1e6SN0lY8We7Qt3jtytqynWoIK6-aQPDz)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1kr_AR7AIPnf9P6LeWbH-AFHYJZnwYCEn)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1w-q3Oc4TrDvV0Vv49Qx0_QZhsb25wSFA)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1dCesnR-le8Zm1obQ56KSYq6ZJRKbhUjS)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1uEGsMOeK7EdGTn-gqePKJZvm3e1b-Bnx)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1ONfsJqZ_q0qRmh8lPGuVSDTkP_yaGzlG)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1fYC-O9eDtvklihPe5raSyQHTSSB--04F)
+![](https://drive.google.com/thumbnail?sz=w1000&id=18yuoE3R777DYgme6gKW3IzjwXV3gFisA)
+![](https://drive.google.com/thumbnail?sz=w1000&id=13fzwdtpVZ1OZkfP-SlxPEe8b5DXcjb1M)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1gMIJypf3vHFKrru-epxcdnNnxybsJaUO)
+![](https://drive.google.com/thumbnail?sz=w1000&id=114yoCE-h4IlhVG6zXYKkkFmnuurQTSyI)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1gKEoY1Y3kyJHIOA-l6AKm3F7g9s_Zcat)

@@ -3,7 +3,7 @@ layout: post
 title: Changing domain name to teffa.dev
 description: >
   Changing domain name to teffa.dev
-image: https://drive.google.com/uc?export=view&id=1_XTGB8eTsGProJ_TMxMcdbEeVS3YE9LK
+image: https://drive.google.com/thumbnail?sz=w1000&id=1_XTGB8eTsGProJ_TMxMcdbEeVS3YE9LK
 noindex: true
 ---
 

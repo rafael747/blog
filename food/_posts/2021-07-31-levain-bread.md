@@ -3,7 +3,7 @@ layout: post
 title: Naturally leavened bread + scoring tool
 description: >
   It is not a complicate process, but it can take a while.
-image: https://drive.google.com/uc?export=view&id=1gKQV5j46aN4s7U1Qjbkh-UyO6yHsvU7S
+image: https://drive.google.com/thumbnail?sz=w1000&id=1gKQV5j46aN4s7U1Qjbkh-UyO6yHsvU7S
 noindex: true
 ---
 
@@ -26,7 +26,7 @@ The whole process can take a while, but once you have the levain you will become
   - Now you can store your levain in the fridge
   - Every week you can refresh the mixture (then leave outside the fridge until doubled in size, then store in fridge again)
 
-![](https://drive.google.com/uc?export=view&id=1LHwXmaFPyrvzDJmlQuLq3Gnr7oDRvTLF)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1LHwXmaFPyrvzDJmlQuLq3Gnr7oDRvTLF)
 
 <iframe src="https://drive.google.com/file/d/1kEmHZ7LRjVX_vH4FAcnbkoVHLkl8k3UA/preview" class="is-fullwidth" height="480"></iframe>
 
@@ -61,27 +61,27 @@ The whole process can take a while, but once you have the levain you will become
   - Bake for about 25 minutes with the pan closed (280ºC)
   - Remove the lid from the pan and let it bake for more 25 minutes (220ºC)
 
-![](https://drive.google.com/uc?export=view&id=1ko-AjhLdaq0RMBfXS-AOYbnIC4Gj1sl1)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1ko-AjhLdaq0RMBfXS-AOYbnIC4Gj1sl1)
 
-![](https://drive.google.com/uc?export=view&id=1-Ht_hyot3MAmoqFa7_y3U-je3aJERJcv)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1-Ht_hyot3MAmoqFa7_y3U-je3aJERJcv)
 
-![](https://drive.google.com/uc?export=view&id=1If0VNeI8VKXxhY_DgUCkbxj3QxAPdAOW)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1If0VNeI8VKXxhY_DgUCkbxj3QxAPdAOW)
 
-![](https://drive.google.com/uc?export=view&id=1gKQV5j46aN4s7U1Qjbkh-UyO6yHsvU7S)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1gKQV5j46aN4s7U1Qjbkh-UyO6yHsvU7S)
 
-![](https://drive.google.com/uc?export=view&id=1AqVSbrFrL_2bRA8DTFTKo9oe5wf2WjoX)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1AqVSbrFrL_2bRA8DTFTKo9oe5wf2WjoX)
 
-![](https://drive.google.com/uc?export=view&id=1owh4fUegSZO3hrggCds4hUW__cz_WnJL)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1owh4fUegSZO3hrggCds4hUW__cz_WnJL)
 
 * * * 
 
 # Custom made bread scoring tool
 
-![](https://drive.google.com/uc?export=view&id=1N2Ft3s2x_sE4sBfzIuo-F-mV2W5A5Btd)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1N2Ft3s2x_sE4sBfzIuo-F-mV2W5A5Btd)
 
-![](https://drive.google.com/uc?export=view&id=1K8JWOc3ZzbvCII2UO-hhV3nmwnTMvtXD)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1K8JWOc3ZzbvCII2UO-hhV3nmwnTMvtXD)
 
-![](https://drive.google.com/uc?export=view&id=1FK0rdJ2G8HKikNATZrnexeeaRGLq_VME)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1FK0rdJ2G8HKikNATZrnexeeaRGLq_VME)
 
 
 * * * 

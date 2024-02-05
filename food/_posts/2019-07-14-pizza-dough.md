@@ -3,7 +3,7 @@ layout: post
 title: Homemade Pizza Dough
 description: >
   It is far better than buying
-image: https://drive.google.com/uc?export=view&id=1su_83rVXKXjoaD9ZSng372QyeMVFOvz2
+image: https://drive.google.com/thumbnail?sz=w1000&id=1su_83rVXKXjoaD9ZSng372QyeMVFOvz2
 noindex: true
 ---
 
@@ -27,23 +27,23 @@ Ok, it is easier to buy dough when making pizza. Actually, it is much easier to 
 
 * * * 
 
-![](https://drive.google.com/uc?export=view&id=1aPPA_aCMs2J3xSIlxgHCv3I_XYpmHubE)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1aPPA_aCMs2J3xSIlxgHCv3I_XYpmHubE)
 Four and yeast
 {:.figure}
 
-![](https://drive.google.com/uc?export=view&id=1sqrytA44ioBqyUl9L09Fi2hEQ_o20jqE)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1sqrytA44ioBqyUl9L09Fi2hEQ_o20jqE)
 After some knead
 {:.figure}
 
-![](https://drive.google.com/uc?export=view&id=1cQmlMnM-lZPVMDhgwC7NIHkmt4f3p6C5)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1cQmlMnM-lZPVMDhgwC7NIHkmt4f3p6C5)
 I used a pasta stick to open the dough
 {:.figure}
 
-![](https://drive.google.com/uc?export=view&id=1su_83rVXKXjoaD9ZSng372QyeMVFOvz2)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1su_83rVXKXjoaD9ZSng372QyeMVFOvz2)
 Before baking
 {:.figure}
 
-![](https://drive.google.com/uc?export=view&id=1NcoV3q5dSun5zZ6QOfM3UqZEjcBBM39d)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1NcoV3q5dSun5zZ6QOfM3UqZEjcBBM39d)
 Ready!
 {:.figure}
 

@@ -15,7 +15,7 @@ One of the stages of this challenge took place in São José do Rio Preto in 201
 
 Since its inception in 2012, NASA’s International Space Apps Challenge has become the world’s largest global hackathon, engaging thousands of citizens across the globe to use NASA’s open data to build innovative solutions to challenges we face on Earth and in space. More information here: https://www.spaceappschallenge.org/
 
-![](https://drive.google.com/uc?export=view&id=1rjaHqKfevGmmsxgy2d0lgMnVp3VSEAOb)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1rjaHqKfevGmmsxgy2d0lgMnVp3VSEAOb)
 
 Space Apps introduces problem-solvers worldwide to NASA’s free and open data. NASA missions to Earth, our Sun and solar system, and out into the universe – all gather data in pursuit of new knowledge, to expand our understanding through new scientific discoveries, and to help us to improve life on Earth. By using NASA data to solve each year’s challenges, Space Apps teams learn about NASA’s data, and share in the creation and application of the knowledge that results.
 
@@ -24,7 +24,7 @@ We enrolled a project in the **Spot That Fire V2.0** category.
 
 > Your challenge is to create an application that leverages NASA's near-real-time and archival wildfire datasets along with other tools to support firefighting and fire mitigation efforts. This challenge builds on last year’s challenge of the same name by calling for innovative ideas and apps that focus on how to engage and enable citizens to assist with the entire firefighting and fire mitigation process. [Details](https://2019.spaceappschallenge.org/challenges/living-our-world/spot-fire-v20/details) 
 
-![](https://drive.google.com/uc?export=view&id=1_YfuIE8oNMETCs1MMIeKR1pkEQTbwiaE)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1_YfuIE8oNMETCs1MMIeKR1pkEQTbwiaE)
 
 Our project was called **Report that fire**
 
@@ -46,7 +46,7 @@ However, there are still some limitations and points of failure in this approach
 
 In order to obtain better results in fire detection, we have created a facilitated communication channel between the population and the responsible agencies, generating more accurate alerts and additional information to help in the fight against the fire.
 
-![](https://drive.google.com/uc?export=view&id=1FJtyEMRLtuC7PzgBpE8x0OrjdZ0LRDZ-)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1FJtyEMRLtuC7PzgBpE8x0OrjdZ0LRDZ-)
 
 The main advantage of this project is that nothing will change in the daily lives of the population and the fire brigade.
 
@@ -67,7 +67,7 @@ Through widely used applications:
     * WhatsApp;
     * Telegram.
 
-![](https://drive.google.com/uc?export=view&id=1sGcqkkZ8YyeRlYoknnu7cKZPyTEkdXH-)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1sGcqkkZ8YyeRlYoknnu7cKZPyTEkdXH-)
 
 **Correlation with NASA data**
 
@@ -116,9 +116,9 @@ More information about the project [here](https://2019.spaceappschallenge.org/ch
 
 With this project, we were one of the winners in the local stage and also won a nomination in the global stage.
 
-![](https://drive.google.com/uc?export=view&id=1oQct9a1YqfyPSVKDO67qX8Z6DP9BlZ3s)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1oQct9a1YqfyPSVKDO67qX8Z6DP9BlZ3s)
 
-![](https://drive.google.com/uc?export=view&id=1nqqan3eGRQB6C--Igt1iHWoelCg4greh)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1nqqan3eGRQB6C--Igt1iHWoelCg4greh)
 
 ## Team Members ###
 

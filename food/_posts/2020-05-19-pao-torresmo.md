@@ -3,7 +3,7 @@ layout: post
 title: Pão de Torresmo
 description: >
   Pão de torresmo, a traditional brazilian crackling bread 
-image: https://drive.google.com/uc?export=view&id=1G0poV_uuZy_JZnfHXK47BcbXkRqi_xnI
+image: https://drive.google.com/thumbnail?sz=w1000&id=1G0poV_uuZy_JZnfHXK47BcbXkRqi_xnI
 noindex: true
 ---
 
@@ -34,23 +34,23 @@ It is a traditional brazilian bread made of flour and cracklings. Its similar to
 
 * * * 
 
-![](https://drive.google.com/uc?export=view&id=1krScynP83MBq3NlHX6VMPhAlwVOt-p9I)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1krScynP83MBq3NlHX6VMPhAlwVOt-p9I)
 
-![](https://drive.google.com/uc?export=view&id=1mCJ7iTs1c3-pvDTnHWdCZkwHqkjx2-bg)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1mCJ7iTs1c3-pvDTnHWdCZkwHqkjx2-bg)
 
-![](https://drive.google.com/uc?export=view&id=1ZzgOeaI8xgOz3iZIzRYQI_Sht6Xj1big)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1ZzgOeaI8xgOz3iZIzRYQI_Sht6Xj1big)
 
-![](https://drive.google.com/uc?export=view&id=1IQ9lhkkhf8cwf9YndxD0SVxkbZ7VlTFN)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1IQ9lhkkhf8cwf9YndxD0SVxkbZ7VlTFN)
 
-![](https://drive.google.com/uc?export=view&id=1G0poV_uuZy_JZnfHXK47BcbXkRqi_xnI)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1G0poV_uuZy_JZnfHXK47BcbXkRqi_xnI)
 
-![](https://drive.google.com/uc?export=view&id=1J0APKcr2SUmjrBsetFrxC19iGvkp5Ch0)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1J0APKcr2SUmjrBsetFrxC19iGvkp5Ch0)
 dried tomato version
 {:.figure}
 
-![](https://drive.google.com/uc?export=view&id=1yPAp7zT-7UYqlToorOnC_yDnFBX0r9zK)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1yPAp7zT-7UYqlToorOnC_yDnFBX0r9zK)
 
-![](https://drive.google.com/uc?export=view&id=1NALj14DMyV9taa83drOErR4gLxdrJaSD)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1NALj14DMyV9taa83drOErR4gLxdrJaSD)
 It goes very well with guacamole
 {:.figure}
 

@@ -3,7 +3,7 @@ layout: post
 title: Homemade Chessboard
 description: >
   I was not sure if this was going to work..
-image: https://drive.google.com/uc?export=view&id=1qu8F8Rto6EgH3zwghNH8SdKG8MlBwTjV
+image: https://drive.google.com/thumbnail?sz=w1000&id=1qu8F8Rto6EgH3zwghNH8SdKG8MlBwTjV
 noindex: true
 ---
 
@@ -32,39 +32,39 @@ So, I got the idea to use an MDF board of the right size and use table edge tape
 ## Making Off
 
 
-![](https://drive.google.com/uc?export=view&id=1N5y1tTyZfKIjFaTi6jp0keoeRps8dI3N)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1N5y1tTyZfKIjFaTi6jp0keoeRps8dI3N)
 32cm x 32 cm MDF plate
 {:.figure}
 
-![](https://drive.google.com/uc?export=view&id=1hCMfDNCAJvB6NsX6WRaW4bM2US7nlq8B)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1hCMfDNCAJvB6NsX6WRaW4bM2US7nlq8B)
 draft for bonding
 {:.figure}
 
-![](https://drive.google.com/uc?export=view&id=1zJHXbj-mxgpxm-sqw14swP1K9sA7sm2w)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1zJHXbj-mxgpxm-sqw14swP1K9sA7sm2w)
 plate after contact glue
 {:.figure}
 
-![](https://drive.google.com/uc?export=view&id=11jmki50k0k5c4d3LLBHcZanjKF4L_FdJ)
+![](https://drive.google.com/thumbnail?sz=w1000&id=11jmki50k0k5c4d3LLBHcZanjKF4L_FdJ)
 pasting squares
 {:.figure}
 
-![](https://drive.google.com/uc?export=view&id=18lVNw4vLf4Ogr-vrlS-vqs6MP1wOM4lj)
+![](https://drive.google.com/thumbnail?sz=w1000&id=18lVNw4vLf4Ogr-vrlS-vqs6MP1wOM4lj)
 done with the squares
 {:.figure}
 
-![](https://drive.google.com/uc?export=view&id=11n6PbIdwO3e0sAMpy4MfJ1h8eQg0UUdO)
+![](https://drive.google.com/thumbnail?sz=w1000&id=11n6PbIdwO3e0sAMpy4MfJ1h8eQg0UUdO)
 now the sides
 {:.figure}
 
-![](https://drive.google.com/uc?export=view&id=183PaQAXzAXeqwmBJBgW9xeYC2kzogWZU)
+![](https://drive.google.com/thumbnail?sz=w1000&id=183PaQAXzAXeqwmBJBgW9xeYC2kzogWZU)
 and the edges
 {:.figure}
 
-![](https://drive.google.com/uc?export=view&id=1uFuIQMbPVispAKb4LWNCzk1DZXZZRIQk)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1uFuIQMbPVispAKb4LWNCzk1DZXZZRIQk)
 time to remove the left overs
 {:.figure}
 
-![](https://drive.google.com/uc?export=view&id=17M7UojRaz55UWfKCZjpbhw82sxRFf53u)
+![](https://drive.google.com/thumbnail?sz=w1000&id=17M7UojRaz55UWfKCZjpbhw82sxRFf53u)
 the final result
 {:.figure}
 

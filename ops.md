@@ -21,9 +21,7 @@ image: /assets/img/blog/hydejack-8.png
 Rafael Carreira (Teffa)
 {:.lead}
 
-![small](https://drive.google.com/uc?export=view&id=16htl1OIvwGGXxRYbk6YsunG0PnqUZG4Z){:.lead}
-Camping with @danigarbiatti.
-{:.figure}
+![small](https://drive.google.com/thumbnail?sz=w1000&id=16htl1OIvwGGXxRYbk6YsunG0PnqUZG4Z)
 
 I have a degree in computer science at UNESP / IBILCE and I have specifics with security in computer networks and infrastructure. In addition to technology, I really enjoy DIY stuff, cooking crafts, hiking and camping.
 

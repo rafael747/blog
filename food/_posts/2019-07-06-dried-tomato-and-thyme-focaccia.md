@@ -3,7 +3,7 @@ layout: post
 title: Dried tomato and thyme focaccia
 description: >
   Looks like a pizza, or sort of...
-image: https://drive.google.com/uc?export=view&id=1Yb6M6g4Ffok0Hj8VttRiFnK3wh8QHjCT
+image: https://drive.google.com/thumbnail?sz=w1000&id=1Yb6M6g4Ffok0Hj8VttRiFnK3wh8QHjCT
 noindex: true
 ---
 
@@ -39,10 +39,10 @@ noindex: true
 
 * * * 
 
-![](https://drive.google.com/uc?export=view&id=1wnQVDf_KbukoPf5OlpIODL-smF0WTwnE)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1wnQVDf_KbukoPf5OlpIODL-smF0WTwnE)
 
-![](https://drive.google.com/uc?export=view&id=13P5Nre9-fop53Ba7pqMo5GqA-rranL4y)
+![](https://drive.google.com/thumbnail?sz=w1000&id=13P5Nre9-fop53Ba7pqMo5GqA-rranL4y)
 
-![](https://drive.google.com/uc?export=view&id=11xX0QucygoVivmCsUtv1i_vZiXl1OZhY)
+![](https://drive.google.com/thumbnail?sz=w1000&id=11xX0QucygoVivmCsUtv1i_vZiXl1OZhY)
 
-![](https://drive.google.com/uc?export=view&id=1X3lWuRYsialq6O165RyO09jEvKxkpZyU)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1X3lWuRYsialq6O165RyO09jEvKxkpZyU)

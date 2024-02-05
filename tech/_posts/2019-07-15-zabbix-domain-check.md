@@ -86,7 +86,7 @@ ZABBIXHOST="Domains"
 
 ## Problems
 
-![](https://drive.google.com/uc?export=view&id=1_XTGB8eTsGProJ_TMxMcdbEeVS3YE9LK)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1_XTGB8eTsGProJ_TMxMcdbEeVS3YE9LK)
 
 ## Trigger
 

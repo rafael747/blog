@@ -1,17 +1,23 @@
 ---
 layout: post
-title: How I host images for the blog
+title: How I host images for the blog (UPDATED)
 description: >
-  How I host images for the blog
-image: https://drive.google.com/uc?export=view&id=1wY4QPM-NI1okZ9o5dXvLv61E8T10Nz4i
+  How I host images for the blog (UPDATED)
+image: https://drive.google.com/thumbnail?sz=w1000&id=1wY4QPM-NI1okZ9o5dXvLv61E8T10Nz4i
 noindex: true
+---
+
+---
+
+**UPDATE:** The method used in this post to embed images is no longer working. Details [here](https://issuetracker.google.com/issues/319531488?pli=1). A simple workaround is to replace `/uc?export=view&id=ImageID` for`/thumbnail?sz=w1000&id=ImageID`.
+
 ---
 
 Today I will show you how I host the images used in the posts. There are many methods you can use, however I found this one to be the most practical, with no additional tools or services needed.
 
 Despite all the methods available to host images and embed them in a static blog. I chose to use only services that I already use (and you probably use them too).
 
-![](https://drive.google.com/uc?export=view&id=1FsBYRjwNCkYcf_TisAqE-TQ-TGE5CZ_1)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1FsBYRjwNCkYcf_TisAqE-TQ-TGE5CZ_1)
 
 I've been using Google Drive for years, and since I have an Android Phone, all of my photos are also stored in Google Photos.
 
@@ -21,7 +27,7 @@ This way, all I need to do when creating a new post is to select some photos fro
 
 First, you need place your image files in a publicly accessible folder. People who access the blog also need to access your images.
 
-![](https://drive.google.com/uc?export=view&id=1yNSxkXOUTHdNijapbkOVA6GYcrr3mQ0X)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1yNSxkXOUTHdNijapbkOVA6GYcrr3mQ0X)
 
 In my case, I set the permission on the folder, so I don't need to do that for every image inside. I use the following folder structure in my Drive:
 
@@ -46,11 +52,11 @@ You will get something like this:
 
 Only the ID (in red) is important to us. Now, just put the ID in the following URL
 
-<pre>https://drive.google.com/uc?export=view&amp;id=<span style="color: #ff0000;">PutTheIdHere</span></pre>
+<pre>https://drive.google.com/thumbnail?sz=w1000&id=<span style="color: #ff0000;">PutTheIdHere</span></pre>
 
 As I'm writing my Blog posts in Markdown, a ready-to-use link looks like this:
 
-<pre> ![](https://drive.google.com/uc?export=view&id=1yNSxkXOUTHdNijapbkOVA6GYcrr3mQ0X) </pre>
+<pre> ![](https://drive.google.com/thumbnail?sz=w1000&id=1yNSxkXOUTHdNijapbkOVA6GYcrr3mQ0X) </pre>
 
 Unfortunately, it is necessary to get each image ID to generate links for my posts. Wouldn't be great if we have a way to automate this process?
 
@@ -62,7 +68,7 @@ First, I tried to write some code that accesses my Google Drive and get the IDs 
 
 At that point, I was glad to find a Google service that helped a lot: Google Apps Script
 
-![](https://drive.google.com/uc?export=view&id=1SFYns8yCjuo7OimhDqYktnkJsdc653xM)
+![](https://drive.google.com/thumbnail?sz=w1000&id=1SFYns8yCjuo7OimhDqYktnkJsdc653xM)
 
 With Google Apps Script, you simply write the code to interact with some Google services. It is like a script file that stays in your Google Drive and you can run it on your own account.
 
@@ -89,7 +95,7 @@ function doGet(e) {
   
   var output = ContentService.createTextOutput("");
   ordered.forEach(function(file){
-    output.append(Utilities.formatString("![](https://drive.google.com/uc?export=view&id=%s)", file.id))
+    output.append(Utilities.formatString("![](https://drive.google.com/thumbnail?sz=w1000&id=%s)", file.id))
     output.append("\n\n")
   });
 
@@ -107,7 +113,7 @@ The only remaining step is to open the script, change the folder ID and Deploy a
 
 When you access the created link, you will see a simple page with the links, ready to be pasted in your Markdown file
 
-![](https://drive.google.com/uc?export=view&id=11X5a2mZe4cAWaT0ywe9LkF6DcEOcXp60)
+![](https://drive.google.com/thumbnail?sz=w1000&id=11X5a2mZe4cAWaT0ywe9LkF6DcEOcXp60)
 
 
 > In this case, there are only 3 images (this own post). However, for a post with many images, this saves me a lot of time.
