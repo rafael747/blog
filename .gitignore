@@ -6,6 +6,7 @@
 public/
 resources/
 .hugo_build.lock
+static/cdn/
 
 # macOS
 .DS_Store

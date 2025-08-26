@@ -1,0 +1,30 @@
+{{- /*
+CDN Image URL Transformer
+
+This partial transforms local CDN paths to full CDN URLs when building for production.
+Input: Image path (string)
+Output: Transformed URL (string)
+*/ -}}
+
+{{- $cdnBaseURL := site.Params.cdnBaseURL | default "" }}
+{{- $cdnLocalAssetPrefix := site.Params.cdnLocalAssetPrefix | default "" }}
+
+{{- $finalUrl := . }}
+
+{{- if and (ne $cdnBaseURL "") (ne $cdnLocalAssetPrefix "") -}}
+
+    {{- /* Determine if this image should be transformed */ -}}
+    {{- $isRemoteImage := findRE `^https?` . }}
+    {{- $isLocalCdnPath := and (not $isRemoteImage) (hasPrefix . $cdnLocalAssetPrefix) }}
+
+    {{- /* Transform URL if needed */ -}}
+    {{- if and $isLocalCdnPath (eq hugo.Environment "production") -}}
+        {{- /* Extract relative path from CDN prefix */ -}}
+        {{- $relativePath := strings.TrimPrefix $cdnLocalAssetPrefix . }}
+
+        {{- /* Build full CDN URL */ -}}
+        {{- $finalUrl = printf "%s/%s" (strings.TrimSuffix "/" $cdnBaseURL) (strings.TrimPrefix "/" $relativePath) }}
+    {{- end -}}
+{{- end -}}
+
+{{- return $finalUrl -}}

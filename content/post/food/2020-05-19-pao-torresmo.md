@@ -1,7 +1,7 @@
 ---
 date: '2020-05-19'
 title: Pão de Torresmo
-image: https://drive.google.com/thumbnail?sz=w1000&id=1G0poV_uuZy_JZnfHXK47BcbXkRqi_xnI
+image: /cdn/2020-05-19-pao-torresmo/IMG_20200221_075030437_r.jpg
 url: '/food/:slug'
 categories: ['food']
 ---
@@ -35,25 +35,23 @@ It is a traditional brazilian bread made of flour and cracklings. Its similar to
 
 * * * 
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1krScynP83MBq3NlHX6VMPhAlwVOt-p9I)
+![](/cdn/2020-05-19-pao-torresmo/IMG_20200406_162613350_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1mCJ7iTs1c3-pvDTnHWdCZkwHqkjx2-bg)
+![](/cdn/2020-05-19-pao-torresmo/IMG_20200406_162747363_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1ZzgOeaI8xgOz3iZIzRYQI_Sht6Xj1big)
+![](/cdn/2020-05-19-pao-torresmo/IMG_20200220_210528093_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1IQ9lhkkhf8cwf9YndxD0SVxkbZ7VlTFN)
+![](/cdn/2020-05-19-pao-torresmo/IMG_20200422_224003815_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1G0poV_uuZy_JZnfHXK47BcbXkRqi_xnI)
+![](/cdn/2020-05-19-pao-torresmo/IMG_20200221_075030437_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1J0APKcr2SUmjrBsetFrxC19iGvkp5Ch0)
-dried tomato version
-{:.figure}
+![](/cdn/2020-05-19-pao-torresmo/IMG_20200406_172630893_r.jpg)
+<center>dried tomato version</center>
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1yPAp7zT-7UYqlToorOnC_yDnFBX0r9zK)
+![](/cdn/2020-05-19-pao-torresmo/IMG_20200406_195309449_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1NALj14DMyV9taa83drOErR4gLxdrJaSD)
-It goes very well with guacamole
-{:.figure}
+![](/cdn/2020-05-19-pao-torresmo/IMG_20200229_192336514_r.jpg)
+<center>It goes very well with guacamol</center>
 
 * * *
 

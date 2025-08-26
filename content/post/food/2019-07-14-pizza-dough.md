@@ -1,7 +1,7 @@
 ---
 date: '2019-07-14'
 title: Homemade Pizza Dough
-image: https://drive.google.com/thumbnail?sz=w1000&id=1su_83rVXKXjoaD9ZSng372QyeMVFOvz2
+image: /cdn/2019-07-14-pizza-dough/pizza_4.jpg
 url: '/food/:slug'
 categories: ['food']
 ---
@@ -28,23 +28,23 @@ Ok, it is easier to buy dough when making pizza. Actually, it is much easier to 
 
 * * * 
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1aPPA_aCMs2J3xSIlxgHCv3I_XYpmHubE "Four and yeast")
+![](/cdn/2019-07-14-pizza-dough/pizza_1.jpg "Four and yeast")
 
 Four and yeast
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1sqrytA44ioBqyUl9L09Fi2hEQ_o20jqE)
+![](/cdn/2019-07-14-pizza-dough/pizza_2.jpg)
 
 After some knead
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1cQmlMnM-lZPVMDhgwC7NIHkmt4f3p6C5)
+![](/cdn/2019-07-14-pizza-dough/pizza_3.jpg)
 
 I used a pasta stick to open the dough
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1su_83rVXKXjoaD9ZSng372QyeMVFOvz2)
+![](/cdn/2019-07-14-pizza-dough/pizza_4.jpg)
 
 Before baking
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1NcoV3q5dSun5zZ6QOfM3UqZEjcBBM39d)
+![](/cdn/2019-07-14-pizza-dough/pizza_5.jpg)
 
 Ready!
 

@@ -1,7 +1,7 @@
 ---
 date: '2019-07-06'
 title: Dried tomato and thyme focaccia
-image: https://drive.google.com/thumbnail?sz=w1000&id=1Yb6M6g4Ffok0Hj8VttRiFnK3wh8QHjCT
+image: /cdn/2019-07-06-dried-tomato-and-thyme-focaccia/focaccia_1.jpg
 url: '/food/:slug'
 categories: ['food']
 ---
@@ -37,13 +37,3 @@ Focaccia is a type of Italian flatbread known for its soft, airy interior and cr
   - Bake for about 15 minutes
   - Top with cheese, dried tomatos, thyme, rock salt and olive oil
   - Bake for more 15 minutes
-
-* * * 
-
-![](https://drive.google.com/thumbnail?sz=w1000&id=1wnQVDf_KbukoPf5OlpIODL-smF0WTwnE)
-
-![](https://drive.google.com/thumbnail?sz=w1000&id=13P5Nre9-fop53Ba7pqMo5GqA-rranL4y)
-
-![](https://drive.google.com/thumbnail?sz=w1000&id=11xX0QucygoVivmCsUtv1i_vZiXl1OZhY)
-
-![](https://drive.google.com/thumbnail?sz=w1000&id=1X3lWuRYsialq6O165RyO09jEvKxkpZyU)

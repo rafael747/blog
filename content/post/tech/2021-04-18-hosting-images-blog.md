@@ -1,10 +1,11 @@
 ---
 date: '2021-04-18'
-title: How I host images for the blog (UPDATED)
-image: https://drive.google.com/thumbnail?sz=w1000&id=1wY4QPM-NI1okZ9o5dXvLv61E8T10Nz4i
+title: How I host images for the blog (OUTDATED)
+image: /cdn/2021-04-18-hosting-images-blog/term.png
 url: '/tech/:slug'
 categories: ['tech']
 ---
+EDIT: Check [here](/tech/using-cloudflare-r2-for-images/) for the updated version
 
 Today I will show you how I host the images used in the posts. There are many methods you can use, however I found this one to be the most practical, with no additional tools or services needed.
 
@@ -12,7 +13,7 @@ Today I will show you how I host the images used in the posts. There are many me
 
 Despite all the methods available to host images and embed them in a static blog. I chose to use only services that I already use (and you probably use them too).
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1FsBYRjwNCkYcf_TisAqE-TQ-TGE5CZ_1)
+![](/cdn/2021-04-18-hosting-images-blog/google-drive_0.png)
 
 I've been using Google Drive for years, and since I have an Android Phone, all of my photos are also stored in Google Photos.
 
@@ -22,7 +23,7 @@ This way, all I need to do when creating a new post is to select some photos fro
 
 First, you need place your image files in a publicly accessible folder. People who access the blog also need to access your images.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1yNSxkXOUTHdNijapbkOVA6GYcrr3mQ0X)
+![](/cdn/2021-04-18-hosting-images-blog/public_folder.png)
 
 In my case, I set the permission on the folder, so I don't need to do that for every image inside. I use the following folder structure in my Drive:
 
@@ -63,7 +64,7 @@ First, I tried to write some code that accesses my Google Drive and get the IDs 
 
 At that point, I was glad to find a Google service that helped a lot: Google Apps Script
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1SFYns8yCjuo7OimhDqYktnkJsdc653xM)
+![](/cdn/2021-04-18-hosting-images-blog/google-apps-script-1.png)
 
 With Google Apps Script, you simply write the code to interact with some Google services. It is like a script file that stays in your Google Drive and you can run it on your own account.
 
@@ -108,7 +109,7 @@ The only remaining step is to open the script, change the folder ID and Deploy a
 
 When you access the created link, you will see a simple page with the links, ready to be pasted in your Markdown file
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=11X5a2mZe4cAWaT0ywe9LkF6DcEOcXp60)
+![](/cdn/2021-04-18-hosting-images-blog/links-script.png)
 
 
 > In this case, there are only 3 images (this own post). However, for a post with many images, this saves me a lot of time.

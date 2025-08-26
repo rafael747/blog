@@ -19,8 +19,18 @@
   <!-- Content -->
   <div class="post-content">
     <div class="post-summary">
+      {{ $post := . }}
       {{ with .Params.image }}
-      <img src="{{ . }}" alt="" no-fancybox style="aspect-ratio: 5/3; object-fit: cover;">
+        {{- $imageUrl := partial "cdn-image.html" . -}}
+        <a href="{{ $post.RelPermalink }}" class="post-image-link">
+          <img 
+            src="{{ $imageUrl }}" 
+            alt="{{ $post.Title }}" 
+            class="post-featured-image"
+            style="aspect-ratio: 5/3; object-fit: cover;"
+            no-fancybox
+          >
+        </a>
       {{ end }}
       {{ .Summary }}
     </div>

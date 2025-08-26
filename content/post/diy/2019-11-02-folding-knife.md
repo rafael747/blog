@@ -1,7 +1,7 @@
 ---
 date: '2019-11-02'
 title: Making a folding knife
-image: https://drive.google.com/thumbnail?sz=w1000&id=1Z3MgvRbZ1W-p3KhcTppGX8WZ83MiHncR
+image: /cdn/2019-11-02-folding-knife/IMG_20191026_155733958_r.jpg
 url: '/diy/:slug'
 categories: ['diy']
 ---
@@ -12,73 +12,73 @@ Using a broken kitchen knife and wood from a old cabinet drawer to make a foldin
 
 ## Making Off
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1YSo-6TSzT8EjquZ3AlTY76C8HcTWrV2N)
+![](/cdn/2019-11-02-folding-knife/IMG_20191021_194909245_r.jpg)
 
 before
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1mleLZVy2l64clZ7sTrZFtWat_rWTZ8nQ)
+![](/cdn/2019-11-02-folding-knife/IMG_20191026_104716052_r.jpg)
 
 blade and handles
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1JZlDGpBiVrQbiac3MihaMNX33hnjtp85)
+![](/cdn/2019-11-02-folding-knife/IMG_20191026_111427642_r.jpg)
 
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1Z3MgvRbZ1W-p3KhcTppGX8WZ83MiHncR)
+![](/cdn/2019-11-02-folding-knife/IMG_20191026_155733958_r.jpg)
 
 internal parts
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1xlJoHyx1zSIfWx6shheFEGlThJeMH7iT)
+![](/cdn/2019-11-02-folding-knife/IMG_20191026_191408352_r.jpg)
 
 with the spring in place
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1EdgVlmITPrmb-3qlEql9NI4-r1c1yOnS)
+![](/cdn/2019-11-02-folding-knife/IMG_20191028_184610053_r.jpg)
 
 after assembling
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1zAn6pfx4YYQMMSMsPqsG70hNz71QeguQ)
+![](/cdn/2019-11-02-folding-knife/IMG_20191028_195828237_r.jpg)
 
 after sanding and polishing
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1TfXElsd09AEsriUe-8bryo5IVuepWwYp)
+![](/cdn/2019-11-02-folding-knife/IMG_20191028_195857663_r.jpg)
 
 opening
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=13m5TC81C59lHW2k2EGnMW4ItnJGp_Ew7)
+![](/cdn/2019-11-02-folding-knife/IMG_20191028_195930723_r.jpg)
 
 locked
 
 ## The kukri miniature
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1mleLZVy2l64clZ7sTrZFtWat_rWTZ8nQ)
+![](/cdn/2019-11-02-folding-knife/IMG_20191026_104716052_r.jpg)
 
 using this blade left
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1ewbgeJ2etwC8ThqGmblVgFV9P3L48d8p)
+![](/cdn/2019-11-02-folding-knife/IMG_20191026_192301595_r.jpg)
 
 and a piace of its own handle
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1oyan6aPSA8qt3wCCrLDlc8VQ2sbqNbLw)
+![](/cdn/2019-11-02-folding-knife/IMG_20191026_192653634_r.jpg)
 
 gluing the handle
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1nSDaF7qW69exoiLyCOGbPiYpKPGQ8IaU)
+![](/cdn/2019-11-02-folding-knife/IMG_20191028_202219108_r.jpg)
 
 handle in shape
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1DH2nen7cPzTVXk7PFUx_iwNP2aq-RRD_)
+![](/cdn/2019-11-02-folding-knife/IMG_20191028_202227489_r.jpg)
 
 using a knife pin as a bolster
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1MtSO2lpmZzHulZghfpTUlZ5hcW1MGPP5)
+![](/cdn/2019-11-02-folding-knife/IMG_20191028_205008708_rr.jpg)
 
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=19I-RsDWNemNVPQEYsDvZNl3r5C_tX7XT)
+![](/cdn/2019-11-02-folding-knife/IMG_20191029_202501143_r.jpg)
 
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1XsaWKx9MbWmbsCDBYDxR9LBisOY-wxE8)
+![](/cdn/2019-11-02-folding-knife/WhatsApp Image 2019-11-02 at 10.22.06.jpg)
 
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=144jGY1iGqJdpaRL6zlqQmsVo0-angZ6N)
+![](/cdn/2019-11-02-folding-knife/IMG_20191102_095300169_r.jpg)
 
 
 * * *

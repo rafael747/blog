@@ -1,7 +1,7 @@
 ---
 date: '2020-08-02'
 title: Camping SJRP - SP
-image: https://drive.google.com/thumbnail?sz=w1000&id=1KM5aXQKbelLFicootH_NcAgUl6tu0xkv
+image: /cdn/2020-08-02-camping-sjrp/08.jpg
 url: '/places/:slug'
 categories: ['places']
 ---
@@ -10,49 +10,49 @@ Camping in SJRP - SP
 
 <!--more-->
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=19POVo2ROLNb8NBeaCSqa0vSxTA91vRlX)
+![](/cdn/2020-08-02-camping-sjrp/01.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=16htl1OIvwGGXxRYbk6YsunG0PnqUZG4Z)
+![](/cdn/2020-08-02-camping-sjrp/02.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1kg8YkmtM0O3I0BERwQz8TWys9_N6-81n)
+![](/cdn/2020-08-02-camping-sjrp/03.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=12AYSM9AftQ5hUK9GNYQzL2s86NTQYM3W)
+![](/cdn/2020-08-02-camping-sjrp/04.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1E0ILlcKJpMxcN7QgDjo8h9pmPmc2mTAc)
+![](/cdn/2020-08-02-camping-sjrp/05.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1VLZiin1is4y88V1GKSOgNKB94JGEdDHJ)
+![](/cdn/2020-08-02-camping-sjrp/06.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1QvwbtTK4Od4mVfjvDrRKkQiV1ebqfSQ7)
+![](/cdn/2020-08-02-camping-sjrp/07.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1KM5aXQKbelLFicootH_NcAgUl6tu0xkv)
+![](/cdn/2020-08-02-camping-sjrp/08.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1LXeCmh_AmZZ4JsZt7zBqlIvMlr8_Ygm1)
+![](/cdn/2020-08-02-camping-sjrp/09.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1U8GWoSsgX9E2EJYda0Fa5vScWT6sBNFQ)
+![](/cdn/2020-08-02-camping-sjrp/10.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1bX2HjzpvGA0nGSw_bkEld42gSetDIteA)
+![](/cdn/2020-08-02-camping-sjrp/11.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1vi6aGFMmuymWvcX4MzYEIwwf5CEc2WNa)
+![](/cdn/2020-08-02-camping-sjrp/12.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1t3D_hJROX8R3QIbKHC8eVfzgCFHzqeyu)
+![](/cdn/2020-08-02-camping-sjrp/13.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1ULELxd8qB6GYnBCSvWRGREcvNPa90WWK)
+![](/cdn/2020-08-02-camping-sjrp/14.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1b_VTyigHYG7fMUoVSicjkT06R_Zl4njU)
+![](/cdn/2020-08-02-camping-sjrp/15.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1AKwH1rbz6IQNiqqKn0ii652w8ykwcWv3)
+![](/cdn/2020-08-02-camping-sjrp/16.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1DOjwMjguzTJbK5fBuh0FstDrMSdYY4WR)
+![](/cdn/2020-08-02-camping-sjrp/17.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1AW19m38rjSSQBkqoUI1NDPxVcY4uk6yN)
+![](/cdn/2020-08-02-camping-sjrp/18.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1IWWOa7tKRxJ4yqNJ0r5MIE1TuQGJ4x_g)
+![](/cdn/2020-08-02-camping-sjrp/19.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1rYwRdEv3hpC4dRYnboS8tR6j8tuOiNSi)
+![](/cdn/2020-08-02-camping-sjrp/20.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1Iq98kvoOCty832wQ0l539U2z0eYHvAAk)
+![](/cdn/2020-08-02-camping-sjrp/21.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1mU2wgsl20tl7JiX-3CW3DNiiTWmDu9H1)
+![](/cdn/2020-08-02-camping-sjrp/22.jpg)
 
 
 

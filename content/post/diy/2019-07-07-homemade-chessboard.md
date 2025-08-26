@@ -1,7 +1,7 @@
 ---
 date: '2019-07-07'
 title: Homemade Chessboard
-image: https://drive.google.com/thumbnail?sz=w1000&id=1qu8F8Rto6EgH3zwghNH8SdKG8MlBwTjV
+image: /cdn/2019-07-07-homemade-chessboard/table_0.jpg
 url: '/diy/:slug'
 categories: ['diy']
 ---
@@ -34,39 +34,39 @@ So, I got the idea to use an MDF board of the right size and use table edge tape
 ## Making Off
 
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1N5y1tTyZfKIjFaTi6jp0keoeRps8dI3N)
+![](/cdn/2019-07-07-homemade-chessboard/table_1.jpg)
 
 32cm x 32 cm MDF plate
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1hCMfDNCAJvB6NsX6WRaW4bM2US7nlq8B)
+![](/cdn/2019-07-07-homemade-chessboard/table_2.jpeg)
 
 draft for bonding
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1zJHXbj-mxgpxm-sqw14swP1K9sA7sm2w)
+![](/cdn/2019-07-07-homemade-chessboard/table_3.jpg)
 
 plate after contact glue
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=11jmki50k0k5c4d3LLBHcZanjKF4L_FdJ)
+![](/cdn/2019-07-07-homemade-chessboard/table_4.jpg)
 
 pasting squares
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=18lVNw4vLf4Ogr-vrlS-vqs6MP1wOM4lj)
+![](/cdn/2019-07-07-homemade-chessboard/table_5.jpg)
 
 done with the squares
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=11n6PbIdwO3e0sAMpy4MfJ1h8eQg0UUdO)
+![](/cdn/2019-07-07-homemade-chessboard/table_6.jpg)
 
 now the sides
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=183PaQAXzAXeqwmBJBgW9xeYC2kzogWZU)
+![](/cdn/2019-07-07-homemade-chessboard/table_7.jpg)
 
 and the edges
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1uFuIQMbPVispAKb4LWNCzk1DZXZZRIQk)
+![](/cdn/2019-07-07-homemade-chessboard/table_8.jpg)
 
 time to remove the left overs
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=17M7UojRaz55UWfKCZjpbhw82sxRFf53u)
+![](/cdn/2019-07-07-homemade-chessboard/table_9.jpg)
 
 the final result
 

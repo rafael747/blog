@@ -5,15 +5,6 @@ title = "Blog"
 enableRobotsTXT = true
 theme = "even"
 
-# Syntax highlighting by Chroma. NOTE: Don't enable `highlightInClient` and `chroma` at the same time!
-pygmentsOptions = "linenos=table"
-pygmentsCodefences = true
-pygmentsUseClasses = true
-pygmentsCodefencesGuessSyntax = true
-
-# Syntax highlighting by highlight.js
-highlightInClient = false
-
 [author]                  # essential
   name = "rafael"
 
@@ -68,6 +59,10 @@ highlightInClient = false
   customCSS = []
   customJS = ['custom-fancybox.js']
 
+  # CDN for images 
+  cdnBaseURL = "https://cdn.teffa.dev"
+  cdnLocalAssetPrefix = "/cdn/"
+
   [params.publicCDN]        # load these files from public cdn
     enable = true
     jquery = '<script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>'
@@ -87,8 +82,12 @@ highlightInClient = false
 
 # see https://gohugo.io/getting-started/configuration-markup
 [markup]
-  [markup.tableOfContents]
-    startLevel = 1
-  [markup.goldmark.renderer]
-    unsafe = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 

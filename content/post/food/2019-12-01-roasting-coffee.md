@@ -1,7 +1,7 @@
 ---
 date: '2019-12-01'
 title: Roasting Coffee at Home
-image: https://drive.google.com/thumbnail?sz=w1000&id=1VVCMiSxA8bTETHjTCDKn1Simdvya0A7Z
+image: /cdn/2019-12-01-roasting-coffee/IMG_20191116_161725743_r.jpg
 url: '/food/:slug'
 categories: ['food']
 ---
@@ -12,29 +12,29 @@ A friend of mine invited me to help him with his coffee. He has some coffee plan
 
 ## Selecting the coffee beans
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1ze35QMLlebGYMHYYYdVVZPf4TCAsgV6h)
+![](/cdn/2019-12-01-roasting-coffee/IMG_20191116_142518878_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1yqnKw1XQh11ejePlX47FRi95d6na5wfL)
+![](/cdn/2019-12-01-roasting-coffee/IMG_20191116_142522239_r.jpg)
 
 ## Roasting the coffee
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1b0yWFHDED41EljeYL3ZCgeAd6AO8Bc_r)
+![](/cdn/2019-12-01-roasting-coffee/IMG_20191116_150507080_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1NJiIZEVirpQxQXUaRNUVQEg1fazWaKjj)
+![](/cdn/2019-12-01-roasting-coffee/IMG_20191116_152125031_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1vSyAYTo-dveRA1HS5LAyaRc2L5Kw1K-U)
+![](/cdn/2019-12-01-roasting-coffee/IMG_20191116_152127308_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=11cdOM460FiCIch2GuJH8oN92LYZ6P2K8)
+![](/cdn/2019-12-01-roasting-coffee/IMG_20191116_152736252_r.jpg)
 
 ## Letting it cool
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1lWUry9xtav-ysffjpcts0KjwI2oWFk53)
+![](/cdn/2019-12-01-roasting-coffee/IMG_20191116_160208355_rr.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1VVCMiSxA8bTETHjTCDKn1Simdvya0A7Z)
+![](/cdn/2019-12-01-roasting-coffee/IMG_20191116_161725743_r.jpg)
 
 ## Making some coffee in an italian moka
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1bVVWstzM1_hYNqY-JBbIILVFCBJ3_m53)
+![](/cdn/2019-12-01-roasting-coffee/IMG_20191116_164852054_r.jpg)
 
 <iframe src="https://drive.google.com/file/d/11iUuY0-5Yk0KHtQECtyMHdwZutmC41dJ/preview" class="is-fullwidth" height="480"></iframe>
 

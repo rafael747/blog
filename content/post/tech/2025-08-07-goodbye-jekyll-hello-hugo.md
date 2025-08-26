@@ -1,7 +1,7 @@
 ---
 date: '2025-08-06'
 title: 'Goodbye Jekyll, Hello Hugo'
-image: /img/jekyll-to-hugo/jekyll-to-hugo.png
+image: /cdn/2025-08-07-goodbye-jekyll-hello-hugo/jekyll-to-hugo.png
 url: '/tech/:slug'
 categories: ['tech']
 ---
@@ -12,7 +12,8 @@ So now I want to restart my blogging hobby with fresh content, design, and a new
 
 <!--more-->
 
-![](/img/jekyll-to-hugo/jekyll-to-hugo.jpg)
+![hugo](/cdn/2025-08-07-goodbye-jekyll-hello-hugo/jekyll-to-hugo.png)
+
 
 I had a good time with the Jekyll platform. The main issue for me was about managing gem updates, ruby versions and having a stable local development.
 
@@ -22,7 +23,7 @@ Since I don't post often, I would rather have a framework with the least amount 
 
 At first I thought about just updating the ruby gem, which of course did not happen nicely. Then I thought about updating the jekyll base altogether, which also caused issues with my version of ruby. 
 
-![](/img/jekyll-to-hugo/gems.png)
+![](/cdn/2025-08-07-goodbye-jekyll-hello-hugo/gems.png)
 
 In the end I was happy to step out of the framework instead of fixing all my mess.
 

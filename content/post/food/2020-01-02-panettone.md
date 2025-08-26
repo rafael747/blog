@@ -1,7 +1,7 @@
 ---
 date: '2020-01-02'
 title: Panettone
-image: https://drive.google.com/thumbnail?sz=w1000&id=1fYC-O9eDtvklihPe5raSyQHTSSB--04F
+image: /cdn/2020-01-02-panettone/panettone5.0.jpeg
 url: '/food/:slug'
 categories: ['food']
 ---
@@ -45,15 +45,15 @@ Panettone is an Italian type of sweet bread and fruitcake, originally from Milan
 
 * * * 
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1e6SN0lY8We7Qt3jtytqynWoIK6-aQPDz)
-![](https://drive.google.com/thumbnail?sz=w1000&id=1kr_AR7AIPnf9P6LeWbH-AFHYJZnwYCEn)
-![](https://drive.google.com/thumbnail?sz=w1000&id=1w-q3Oc4TrDvV0Vv49Qx0_QZhsb25wSFA)
-![](https://drive.google.com/thumbnail?sz=w1000&id=1dCesnR-le8Zm1obQ56KSYq6ZJRKbhUjS)
-![](https://drive.google.com/thumbnail?sz=w1000&id=1uEGsMOeK7EdGTn-gqePKJZvm3e1b-Bnx)
-![](https://drive.google.com/thumbnail?sz=w1000&id=1ONfsJqZ_q0qRmh8lPGuVSDTkP_yaGzlG)
-![](https://drive.google.com/thumbnail?sz=w1000&id=1fYC-O9eDtvklihPe5raSyQHTSSB--04F)
-![](https://drive.google.com/thumbnail?sz=w1000&id=18yuoE3R777DYgme6gKW3IzjwXV3gFisA)
-![](https://drive.google.com/thumbnail?sz=w1000&id=13fzwdtpVZ1OZkfP-SlxPEe8b5DXcjb1M)
-![](https://drive.google.com/thumbnail?sz=w1000&id=1gMIJypf3vHFKrru-epxcdnNnxybsJaUO)
-![](https://drive.google.com/thumbnail?sz=w1000&id=114yoCE-h4IlhVG6zXYKkkFmnuurQTSyI)
-![](https://drive.google.com/thumbnail?sz=w1000&id=1gKEoY1Y3kyJHIOA-l6AKm3F7g9s_Zcat)
+![](/cdn/2020-01-02-panettone/panettone1.jpeg)
+![](/cdn/2020-01-02-panettone/panettone2.jpeg)
+![](/cdn/2020-01-02-panettone/panettone3.0.jpeg)
+![](/cdn/2020-01-02-panettone/panettone3.3_r.jpg)
+![](/cdn/2020-01-02-panettone/panettone3.7_r.jpg)
+![](/cdn/2020-01-02-panettone/panettone4.jpeg)
+![](/cdn/2020-01-02-panettone/panettone5.0.jpeg)
+![](/cdn/2020-01-02-panettone/panettone5.3.jpg)
+![](/cdn/2020-01-02-panettone/panettone5.4_r.jpg)
+![](/cdn/2020-01-02-panettone/panettone6.0.jpeg)
+![](/cdn/2020-01-02-panettone/panettone6.3_r.jpg)
+![](/cdn/2020-01-02-panettone/panettone6.4_r.jpg)

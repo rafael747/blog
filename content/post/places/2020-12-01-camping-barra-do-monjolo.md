@@ -1,7 +1,7 @@
 ---
 date: '2020-12-01'
 title: Camping Barra do Monjolo - Fronteira - MG
-image: https://drive.google.com/thumbnail?sz=w1000&id=1oRl57rVVf1g7THVuZpLXxHs0IgBuh0yi
+image: /cdn/2020-12-01-camping-barra-do-monjolo/08.jpg
 url: '/places/:slug'
 categories: ['places']
 ---
@@ -12,92 +12,89 @@ It is a nice place to go camping with a minimal infrastructure and low prices.
 
 <!--more-->
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1ck8q17zLyZ1oHwfNhEJV0tl4jfE0O7Oq)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/01.jpg)
 
 A little break before setting up the camping
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1OOHlbFIYM4snVrzcyiIPeaazVdCBnmPe)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/02.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=16NUi2m0QxFpzyvh5RaEFxvv5tQbjGC6i)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/03.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1a9eIbEajA8yQ2jcbZS8diaMjsXeXeDgY)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/04.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1GT4SvY6F0wuBrJI0sF-qxAnKMq_aqr-z)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/05.jpg)
 
 The camping site is next to the Rio Grande
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=18AG0G20mlXe7JmfgCyicFR1I2uUhposl)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/06.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1nJHZxs3-0_jleZERp8kA8i-GcpftQcNV)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/07.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1oRl57rVVf1g7THVuZpLXxHs0IgBuh0yi)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/08.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1qV8MYnHBwNWpMdRCmvr_qLhFhom2uk4I)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/09.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1tNOioqFiv9yN0nChkXuYCc_W3Hp7KWcy)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/10.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1ygD4gZ56s9Y8H7nITqaMTCLQjRYvCdbJ)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/11.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=11Tpzn15JE9y1mai-s4WdcYvnc97fS3Bh)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/12.jpg)
 
 It was a beautiful sunset
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1TtHh5RANqCoobd3kTiPrPbMygpTVXGq6)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/13.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1nfARHPgJNRKCKg9G33ZrFEQONCPc-Jrk)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/14.jpg)
 
 we had a nice dinner...
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1zQ0HBXAs81vwXa2-H96BeNvG6N70aOWU)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/15.jpg)
 
 ..at the full moon
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1RdivpRZHteqV4Er4HzHY3j5OWx9a2XkH)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/16.jpg)
 
 In the morning we made some coffee
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1dY01j8-iZekkn80NqTW6Ymm0yCS5eEQT)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/17.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1TjDjBQzFbTxVA_Lfpej1GNcSZONmrPl0)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/18.jpg)
 
 the closest thing to an expresso in a camping :)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1hyubahCBJ-OqbPl_RRrOC5W1lXu4XxlE)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/19.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1GsYnZHJCbircA2VwCr3mDZRi14AkBX-a)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/20.jpg)
 
 we leave our camping to make a trail
 
 <iframe frameBorder="0" scrolling="no" src="https://pt.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=52234426&measures=off&title=on&near=off&images=off&maptype=T"  class="is-fullwidth" height="400"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by <a style="color:#06d;font-size:11px;line-height:16px;" target="_blank" href="https://pt.wikiloc.com">Wikiloc</a></div>
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1nCByfWSzN-f_wl0zvZeWv-jdlgETOamx)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/21.jpg)
 
+![](/cdn/2020-12-01-camping-barra-do-monjolo/22.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1mjSmuNHRKyJDAuWOiV9_QQLwYbrujV-I)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/23.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1VvSc1GDC5OvmHr8sO9_IvyoduT-fmwr9)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/25.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1O1YBo2fEohqDrFJ0yN3Pju2WB0xeww6K)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/26.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1dXwxZ_R4ARpADQPgZr6rQ2doKHSEeb_j)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/27.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1MglQ98qAiIgX2YPUD9Kgl_oDsLsszG12)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/28.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1QpraSj4cJSDl0CK3eBewRYVS8sC9NBcL)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/29.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1CQ6wsO6fymSVukG76pGy6RNPfxpH30sY)
-
-![](https://drive.google.com/thumbnail?sz=w1000&id=1cX_HaTYFbAbUFPIA2pLM7FJOXqxPPL95)
-
-![](https://drive.google.com/thumbnail?sz=w1000&id=1c-g7pgyuoqHKezHL3xS_8TqswCzLiayW)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/30.jpg)
 
 Pesto for lunch, back in the camping
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1C4bVy_Y6r2NqT4rzHLVBM0Y8WE21rG_n)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/31.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1nRm0fJDYsNFRy8qFCHZVtOXF2RpIEApD)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/32.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=188ArEBbk9HBjwq9SFSiu0vFxMx2ZqvwE)
+![](/cdn/2020-12-01-camping-barra-do-monjolo/33.jpg)
 
 * * * 
 

@@ -1,7 +1,7 @@
 ---
 date: '2021-03-12'
 title: Bread Knife
-image: https://drive.google.com/thumbnail?sz=w1000&id=1-fdoDoafHYFyjIU_rVivSO07mkFpzuyc
+image: /cdn/2021-03-12-bread-knife/10_r.jpg
 url: '/diy/:slug'
 categories: ['diy']
 ---
@@ -12,25 +12,25 @@ Making a homemade bread knife
 
 * * *
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1TsHLetTMVAXel7UWrxxBChyeGS8kr4hq)
+![](/cdn/2021-03-12-bread-knife/01_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=127iE5RV5yFl-QtnhhSTJNpS8SHchyQCX)
+![](/cdn/2021-03-12-bread-knife/02_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1iMrN7az8rsTC_bLHp_0t-KcjcpO_2_Pl)
+![](/cdn/2021-03-12-bread-knife/03_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1QaSaSZlG_rxh2Tz3J94LSBU7DqFNcMhx)
+![](/cdn/2021-03-12-bread-knife/04_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1ZiLFD6imdZI0RmZ60k_iDEXR2Ex1dMo2)
+![](/cdn/2021-03-12-bread-knife/05_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1TN1IfJhd2XU5liEm833Lw4dItWctbTmv)
+![](/cdn/2021-03-12-bread-knife/06_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=17nBXAU9TsK46IcTJL0Co6kg9hFy6VTOn)
+![](/cdn/2021-03-12-bread-knife/07_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1S9nYLp4R7fIiRVEhaTMSS7Py3pAc1X_W)
+![](/cdn/2021-03-12-bread-knife/08_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1era0kU_L6cmiZ39kMV1Uu7AD1622QJaz)
+![](/cdn/2021-03-12-bread-knife/09_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1-fdoDoafHYFyjIU_rVivSO07mkFpzuyc)
+![](/cdn/2021-03-12-bread-knife/10_r.jpg)
 
 
 

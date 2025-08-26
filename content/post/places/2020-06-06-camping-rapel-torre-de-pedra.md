@@ -1,7 +1,7 @@
 ---
 date: '2020-06-06'
 title: Camping and Abseiling - Torre de Pedra - Ocauçu - SP
-image: https://drive.google.com/thumbnail?sz=w1000&id=13xucof-0HfhysTdHGadBGd2VbHMCNTZn
+image: /cdn/2020-06-06-camping-rapel-torre-de-pedra/007.jpeg
 url: '/places/:slug'
 categories: ['places']
 ---
@@ -10,35 +10,35 @@ Camping and abseiling in Ocauçu - SP
 
 <!--more-->
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=17Jd2LksGb2q_zp_93slf5v5NsqWY_XpF)
+![](/cdn/2020-06-06-camping-rapel-torre-de-pedra/001.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=170xkKGkm1kLyLD3qDjkAiI6vKcly6-G6)
+![](/cdn/2020-06-06-camping-rapel-torre-de-pedra/002.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1sxNhoamELcMfdgNUiSRSXKi1e1-DeLp-)
+![](/cdn/2020-06-06-camping-rapel-torre-de-pedra/003.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1o48tIPGI3cLu_JnesWPkbNBflyVQtM7f)
+![](/cdn/2020-06-06-camping-rapel-torre-de-pedra/004.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1Fyn6aCjdgVohkL8tN3_LbhsbMPJ2IhZA)
+![](/cdn/2020-06-06-camping-rapel-torre-de-pedra/005.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1TrYVVuQHbbCAN4U-w6xjSV13SWcy8_8v)
+![](/cdn/2020-06-06-camping-rapel-torre-de-pedra/006.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=13xucof-0HfhysTdHGadBGd2VbHMCNTZn)
+![](/cdn/2020-06-06-camping-rapel-torre-de-pedra/007.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1b00fDDAyapZaPHUfxi7KJTaAkuvFbmid)
+![](/cdn/2020-06-06-camping-rapel-torre-de-pedra/008.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1gyNoM1R5dXGHEuYVmR-27MrQbbdMMpZA)
+![](/cdn/2020-06-06-camping-rapel-torre-de-pedra/009.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1Ygcdhe7F2ViHMnTUA1PkWaBpDg00IFBh)
+![](/cdn/2020-06-06-camping-rapel-torre-de-pedra/010.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1AM7IdTgRfgXQkmulNZufeIdd3jPlMYAX)
+![](/cdn/2020-06-06-camping-rapel-torre-de-pedra/011.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1AtA7tVRhPM65NGWsXP_vXIOMJzQ3pIy3)
+![](/cdn/2020-06-06-camping-rapel-torre-de-pedra/012.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=17DUCfjLCUAguuj1JsQv2ELVBolPxXIXQ)
+![](/cdn/2020-06-06-camping-rapel-torre-de-pedra/013.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1QHBkNHGEqLLwT8SYpmKC0C7mp05vFk87)
+![](/cdn/2020-06-06-camping-rapel-torre-de-pedra/014.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=15bjAgPOFz0H9XOYlwLrRyFcWJP1HctJb)
+![](/cdn/2020-06-06-camping-rapel-torre-de-pedra/015.jpeg)
 
 
 * * * 

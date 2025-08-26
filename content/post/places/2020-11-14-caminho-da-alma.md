@@ -1,7 +1,7 @@
 ---
 date: '2020-11-14'
 title: Caminho da Alma 2020
-image: https://drive.google.com/thumbnail?sz=w1000&id=1RhnkavWJQbTJcQT-SpBmYNHgmv3Ddtbu
+image: /cdn/2020-11-14-caminho-da-alma/13.jpeg
 url: '/places/:slug'
 categories: ['places']
 ---
@@ -16,41 +16,37 @@ Every year has a few changes, like the destination city, but it always has its t
 
 This year we went to the Cedral city.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1--Lir1EKmbDQMoikEnhzuvAguGj4hFs0)
+![](/cdn/2020-11-14-caminho-da-alma/01.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1VBtcbWYhpsmOAvLSCmEacoWTtClm3lGT)
+![](/cdn/2020-11-14-caminho-da-alma/03.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1O2_tvCOdsBaKvboJnTRj3P1ROjhzIScZ)
-
-![](https://drive.google.com/thumbnail?sz=w1000&id=1V_akE224Xgf7WlxIFIedrjIrbcmOimHo)
-
-<iframe src="https://drive.google.com/file/d/1sIil1qC24VzTaOXXvPdSzsnF28nEZ-a5/preview" class="is-fullwidth" height="380"></iframe>
+![](/cdn/2020-11-14-caminho-da-alma/04.jpeg)
 
 The support of our friends was essential
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1AtjkCwuNkiSY7MXdwsDw5QfRSQF2rJ_T)
+![](/cdn/2020-11-14-caminho-da-alma/06.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1iSvJwlruuCO39lOSVV4_synbCyP5hT4D)
+![](/cdn/2020-11-14-caminho-da-alma/07.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1ap--1RF1bZOzwu5m13RBuLZGgORhYZQ0)
+![](/cdn/2020-11-14-caminho-da-alma/08.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1PVvRDTaIPxZQgXwLv8CilsjDrwv5iqS0)
+![](/cdn/2020-11-14-caminho-da-alma/09.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=12xXiH6S9Hg1tfOeSw1pZ1kCdhEPA1Hah)
+![](/cdn/2020-11-14-caminho-da-alma/10.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1dBCmaCE08fIdpAkuCxwonLXBl9eYQ-6Y)
+![](/cdn/2020-11-14-caminho-da-alma/11.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1vyOjbe60RsCbZ_hQgx8jqwmWgAE_Ul8S)
+![](/cdn/2020-11-14-caminho-da-alma/12.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1RhnkavWJQbTJcQT-SpBmYNHgmv3Ddtbu)
+![](/cdn/2020-11-14-caminho-da-alma/13.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1J28ddV9OejMyjcWcl04pkMQzaCtdHoCT)
+![](/cdn/2020-11-14-caminho-da-alma/14.jpeg)
 
 Almost 10 hours later, we finish our 40km hiking 
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1W27ftxB9nuUfwho3UN1djJY8MYeiiwbF)
+![](/cdn/2020-11-14-caminho-da-alma/15.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1CdKs1vWG-Pux0rVGe0kqCGmXClTiNhAP)
+![](/cdn/2020-11-14-caminho-da-alma/16.jpeg)
 
 
 * * * 

@@ -1,0 +1,7 @@
+{{- $newDestination := partial "cdn-image.html" .Destination -}}
+
+<img src="{{ $newDestination | safeURL }}"
+  {{- with .PlainText }} alt="{{ . }}"{{ end -}}
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+>
+{{- /* chomp trailing newline */ -}}

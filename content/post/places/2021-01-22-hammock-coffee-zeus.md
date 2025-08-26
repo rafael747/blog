@@ -1,7 +1,7 @@
 ---
 date: '2021-01-22'
 title: Hammock and Coffee at Zeus - SJRP
-image: https://drive.google.com/thumbnail?sz=w1000&id=1FsBawlMtiFcosUpUq2V6qqEjd7UDYsuX
+image: /cdn/2021-01-22-hammock-coffee-zeus/00_r.jpg
 url: '/places/:slug'
 categories: ['places']
 ---
@@ -10,27 +10,23 @@ In this day we went among the trees, set up an hammock and had some fresh grinde
 
 <!--more-->
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1uRD941veKuPPPWgLk_pVwqIzQoOFND4s)
+![](/cdn/2021-01-22-hammock-coffee-zeus/01_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=10FG2FfU1neN0jlLT7svvFeHqfhW-xDAM)
+![](/cdn/2021-01-22-hammock-coffee-zeus/02_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1d0s28iAIy9qYyYVFu7JiztkCuzevw76U)
+![](/cdn/2021-01-22-hammock-coffee-zeus/04_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1a_Mfb7YlOvxKuNJ2RBRPvD80L0hh4Yvy)
+![](/cdn/2021-01-22-hammock-coffee-zeus/05_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1Yt9cd6Gdav1VYyTQQz3OXziEHbSWmYmT)
+![](/cdn/2021-01-22-hammock-coffee-zeus/06_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1wWcGPRNWIUz_v7hO0QQbTLc5apaP1awv)
+![](/cdn/2021-01-22-hammock-coffee-zeus/07_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1u11WEvI6_1CjlPR5GRDlXSitnRC7tm1X)
+![](/cdn/2021-01-22-hammock-coffee-zeus/08_r.jpg)
 
-<iframe src="https://drive.google.com/file/d/1OqsLIH-WIERzX-Xx04aV5-5SNJ8r6oqH/preview" class="is-fullwidth" height="480"></iframe>
+![](/cdn/2021-01-22-hammock-coffee-zeus/09_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1FjETte99YDE0pWgJ4_JLMEfdoLiK1JJR)
-
-![](https://drive.google.com/thumbnail?sz=w1000&id=1cznVgjF1llAzpgaydkrAxTKMbQW58RHJ)
-
-![](https://drive.google.com/thumbnail?sz=w1000&id=1qiMOqUZUJEWUCU0LFxHpNJQbCL1H7iyr)
+![](/cdn/2021-01-22-hammock-coffee-zeus/10_r.jpg)
 
 
 * * * 

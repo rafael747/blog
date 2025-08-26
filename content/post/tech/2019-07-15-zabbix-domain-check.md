@@ -87,7 +87,7 @@ ZABBIXHOST="Domains"
 
 ## Problems
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1_XTGB8eTsGProJ_TMxMcdbEeVS3YE9LK)
+![](/cdn/2019-07-15-zabbix-domain-check/domain-expiring.png)
 
 ## Trigger
 

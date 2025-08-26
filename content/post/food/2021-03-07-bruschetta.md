@@ -1,7 +1,7 @@
 ---
 date: '2021-03-07'
 title: Homemade Bruschetta
-image: https://drive.google.com/thumbnail?sz=w1000&id=1P4Uie_kHU1pH8u_kMWWu_nhLSpQxs_2v
+image: /cdn/2021-03-07-bruschetta/13.jpg
 url: '/food/:slug'
 categories: ['food']
 ---
@@ -31,13 +31,13 @@ Starting with a sourdough bread, then adding homemade pesto, tomato and galic yo
 
 * * *
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1PSxsYaNAgE5r6TYGdnyXqcXE7Hf0A8jS)
+![](/cdn/2021-03-07-bruschetta/01.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1PkLqKj1jIlcYKjNWQh7LGzBP1sQQWOUa)
+![](/cdn/2021-03-07-bruschetta/02.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1PhdVwiLLEqzn6mdaUtwJXZL3FQjpGcHu)
+![](/cdn/2021-03-07-bruschetta/03.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1PjicPQ1J2f1ej1KsyBndRmJnGKwd49Jf)
+![](/cdn/2021-03-07-bruschetta/04.jpg)
 
 * * *
 
@@ -60,9 +60,9 @@ Starting with a sourdough bread, then adding homemade pesto, tomato and galic yo
 
 * * *
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1PhV6YqVFlHpSRz8G__c4NrCLbR0ICa2k)
+![](/cdn/2021-03-07-bruschetta/05.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1PgyhVtZjhr3AFrTKwA0F8Mivw1UUyJXq)
+![](/cdn/2021-03-07-bruschetta/06.jpg)
 
 * * *
 
@@ -86,18 +86,18 @@ Starting with a sourdough bread, then adding homemade pesto, tomato and galic yo
 
 * * *
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1PPTZxZ5Wgv5694aun-4q6BC4p4GYDcFv)
+![](/cdn/2021-03-07-bruschetta/07.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1PLTEo1jA8zVFjWAy9_c02t74EM8c1N2N)
+![](/cdn/2021-03-07-bruschetta/08.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1PAqKphw5HEUcUrLQpnplu62a94dzd-9w)
+![](/cdn/2021-03-07-bruschetta/09.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1P8rSOG0r_qvHxv1e98bS3vCnmyKG_unN)
+![](/cdn/2021-03-07-bruschetta/11.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1P67xpRR1uSJfmoFV5AnF_dOODWNqK80U)
+![](/cdn/2021-03-07-bruschetta/12.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1P4Uie_kHU1pH8u_kMWWu_nhLSpQxs_2v)
+![](/cdn/2021-03-07-bruschetta/13.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1P3A96dMbYm_NJ2tBa4eZaK-H1UkVRgKj)
+![](/cdn/2021-03-07-bruschetta/14.jpg)
 
 * * * 

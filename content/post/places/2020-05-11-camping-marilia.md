@@ -1,7 +1,7 @@
 ---
 date: '2020-05-11'
 title: Camping Gruta de Moabi - Marília - SP
-image: https://drive.google.com/thumbnail?sz=w1000&id=1x7hzFLVz1pMjpUmLhXVDuEgHYcq6RCJW
+image: /cdn/2020-05-11-camping-marilia/05.jpeg
 url: '/places/:slug'
 categories: ['places']
 ---
@@ -10,31 +10,31 @@ categories: ['places']
 
 <!--more-->
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=145IjXQV8M9O1NTLR_ElGLhVPvL0ZFovY)
+![](/cdn/2020-05-11-camping-marilia/02.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1Qlh2OQjUN8BfLna_6d4QVSx7DPCSxigj)
+![](/cdn/2020-05-11-camping-marilia/03.5.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1CEd5CVcY4APSJEWQ-X-kQICWsuR3XviM)
+![](/cdn/2020-05-11-camping-marilia/03.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1_jSlj3DTtqmDLXN5fDbcpXdbSErdCpJ2)
+![](/cdn/2020-05-11-camping-marilia/04.5.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1MO5NB8R-r-Z7wrNJkpxt5OaG3Op634_r)
+![](/cdn/2020-05-11-camping-marilia/04.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1x7hzFLVz1pMjpUmLhXVDuEgHYcq6RCJW)
+![](/cdn/2020-05-11-camping-marilia/05.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1PNmo3D2NMKYphNnw7T4VNRa5jfo1k5Rw)
+![](/cdn/2020-05-11-camping-marilia/06.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=12B-epvE74HFbxNmfXq20bNZV8gQf4g8o)
+![](/cdn/2020-05-11-camping-marilia/07.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1i3HUVqgtQzCPQ4gQVv-LZuwKHxp80teB)
+![](/cdn/2020-05-11-camping-marilia/08.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1RMAsKvQOtdvhlD57B5UBvqj7TdVOrc6t)
+![](/cdn/2020-05-11-camping-marilia/09.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1wRIBxba2ix1y7556zcSFjpQAsjyxDiBV)
+![](/cdn/2020-05-11-camping-marilia/11.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1mWAWfaqyjFzjqMsqD6Nfn975cP3Avl07)
+![](/cdn/2020-05-11-camping-marilia/12.5.jpeg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1LudGUG-BBxF0YefKr5jF82DuQSgRBqL-)
+![](/cdn/2020-05-11-camping-marilia/12.jpeg)
 
 
 * * * 

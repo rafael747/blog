@@ -1,7 +1,7 @@
 ---
 date: '2020-10-01'
 title: Little Wooden Pot
-image: https://drive.google.com/thumbnail?sz=w1000&id=1eeiNRlntZ_ZLwlFhTpcU9rJ6QaGHSL-2
+image: /cdn/2020-10-01-little-wooden-pot/6.jpg
 url: '/diy/:slug'
 categories: ['diy']
 ---
@@ -11,21 +11,21 @@ I have a few wood pieces around (gift of a friend), so I decided to make a woode
 <!--more-->
 
 * * *
-![](https://drive.google.com/thumbnail?sz=w1000&id=166pVrW-kPmGIlCMEwVDGyu7mokOegpN1)
+![](/cdn/2020-10-01-little-wooden-pot/1.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1YCJnkiqeNd09_QR8ly1XICIapURkWvSH)
+![](/cdn/2020-10-01-little-wooden-pot/2.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1miBvHQHTbv40SIURhBy1NNUm580ffCdx)
+![](/cdn/2020-10-01-little-wooden-pot/3.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1Thnzs1wk1jnGH89sTKeP1vmVaViTTev5)
+![](/cdn/2020-10-01-little-wooden-pot/4.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=19Cwxnnx9JAL9oh5GKHT56rAy7mlS0_eh)
+![](/cdn/2020-10-01-little-wooden-pot/5.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1eeiNRlntZ_ZLwlFhTpcU9rJ6QaGHSL-2)
+![](/cdn/2020-10-01-little-wooden-pot/6.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1tku08s9OLJM7uo4L36CxYYncGDR8_5Hv)
+![](/cdn/2020-10-01-little-wooden-pot/7.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=139i1PVOYHToZSxeMy5OdphHXVf5Ri2vL)
+![](/cdn/2020-10-01-little-wooden-pot/8.jpg)
 
 
 * * * 

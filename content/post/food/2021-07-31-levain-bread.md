@@ -3,7 +3,7 @@ date: '2021-07-31'
 title: Naturally leavened bread + scoring tool
 description: >
   It is not a complicate process, but it can take a while.
-image: https://drive.google.com/thumbnail?sz=w1000&id=1gKQV5j46aN4s7U1Qjbkh-UyO6yHsvU7S
+image: /cdn/2021-07-31-levain-bread/06_r.jpg
 url: '/food/:slug'
 categories: ['food']
 ---
@@ -29,7 +29,7 @@ The whole process can take a while, but once you have the levain you will become
   - Now you can store your levain in the fridge
   - Every week you can refresh the mixture (then leave outside the fridge until doubled in size, then store in fridge again)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1LHwXmaFPyrvzDJmlQuLq3Gnr7oDRvTLF)
+![](/cdn/2021-07-31-levain-bread/01_r.jpg)
 
 * * *
  
@@ -62,27 +62,27 @@ The whole process can take a while, but once you have the levain you will become
   - Bake for about 25 minutes with the pan closed (280ºC)
   - Remove the lid from the pan and let it bake for more 25 minutes (220ºC)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1ko-AjhLdaq0RMBfXS-AOYbnIC4Gj1sl1)
+![](/cdn/2021-07-31-levain-bread/03_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1-Ht_hyot3MAmoqFa7_y3U-je3aJERJcv)
+![](/cdn/2021-07-31-levain-bread/04_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1If0VNeI8VKXxhY_DgUCkbxj3QxAPdAOW)
+![](/cdn/2021-07-31-levain-bread/05_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1gKQV5j46aN4s7U1Qjbkh-UyO6yHsvU7S)
+![](/cdn/2021-07-31-levain-bread/06_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1AqVSbrFrL_2bRA8DTFTKo9oe5wf2WjoX)
+![](/cdn/2021-07-31-levain-bread/07_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1owh4fUegSZO3hrggCds4hUW__cz_WnJL)
+![](/cdn/2021-07-31-levain-bread/08_r.jpg)
 
 * * * 
 
 # Custom made bread scoring tool
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1N2Ft3s2x_sE4sBfzIuo-F-mV2W5A5Btd)
+![](/cdn/2021-07-31-levain-bread/09_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1K8JWOc3ZzbvCII2UO-hhV3nmwnTMvtXD)
+![](/cdn/2021-07-31-levain-bread/10_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1FK0rdJ2G8HKikNATZrnexeeaRGLq_VME)
+![](/cdn/2021-07-31-levain-bread/11_r.jpg)
 
 
 * * * 

@@ -1,7 +1,7 @@
 ---
 date: '2019-07-21'
 title: Closed Terrarium
-image: https://drive.google.com/thumbnail?sz=w1000&id=1GnvoSmrxHs0JaCePQ-MsNOC7o8pG6NaP
+image: /cdn/2019-07-21-closed-terrarium/closed-terrarium_4.jpg
 url: '/diy/:slug'
 categories: ['diy']
 ---
@@ -12,71 +12,71 @@ Some day at work I've been talking to a friend about a closed terrarium. I've al
 
 ## Making Off
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1Tmx5-3uusrBQLRc3ojFYM7a5_ay2dLEA)
+![](/cdn/2019-07-21-closed-terrarium/closed-terrarium_1.jpg)
 
 all itens ready
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1eimMNjBiaN1z5uRVS6fmrK9W3y2T6lfl)
+![](/cdn/2019-07-21-closed-terrarium/closed-terrarium_2.jpg)
 
 some decoration
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1m6BMqgvEmrZqOZwq8cFZGiOK70_AfgyL)
+![](/cdn/2019-07-21-closed-terrarium/closed-terrarium_3.jpg)
 
 plants
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1GnvoSmrxHs0JaCePQ-MsNOC7o8pG6NaP)
+![](/cdn/2019-07-21-closed-terrarium/closed-terrarium_4.jpg)
 
 inside the bottle
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1V5FaCOr4JAjzTPbpsxXOsL0iUX11XoX7)
+![](/cdn/2019-07-21-closed-terrarium/closed-terrarium_5.jpg)
 
 done
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=16gvgMPIpsC3uD9xR6NGncb5UdZ-mSMZE)
+![](/cdn/2019-07-21-closed-terrarium/closed-terrarium_6.jpg)
 
 2019-07-14
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1UwMHWZVIhOln1hYjNi7xqTgs9c-N8Rgl)
+![](/cdn/2019-07-21-closed-terrarium/closed-terrarium_7.jpg)
 
 after some time
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=18RKg8PX-At-Yl689Jk7uoej9by-vtNz3)
+![](/cdn/2019-07-21-closed-terrarium/closed-terrarium_8.jpg)
 
 2019-07-21
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1txhyCBKf3crcYLnPg2bxoq7ELFdMMjQ_)
+![](/cdn/2019-07-21-closed-terrarium/IMG_20190727_153619534_r.jpg)
 
 2019-07-27
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1UgpG62B8t60uEXbVZsGjg9C7GCKxRAYZ)
+![](/cdn/2019-07-21-closed-terrarium/IMG_20190813_203508972_r.jpg)
 
 2019-08-13 (????)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1SGiHbJFSc4Wef9V_wuMG-rBwYSyD7oS2)
+![](/cdn/2019-07-21-closed-terrarium/IMG_20190825_193815184_r.jpg)
 
 2019-08-25
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1FBW7rvVNwr3xi9izG-W63n4qzceOAZ2k)
+![](/cdn/2019-07-21-closed-terrarium/IMG_20190901_130958790_r.jpg)
 
 2019-09-01
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1o0Rs7PoZgL0-GSUU2ZQNpQxnFu5cI7o5)
+![](/cdn/2019-07-21-closed-terrarium/IMG_20191009_201721695_r.jpg)
 
 2019-10-09
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1VK4Co-Abq2kWjAgviw7rJmB4s8N4fXJM)
+![](/cdn/2019-07-21-closed-terrarium/IMG_20191025_073645593_r.jpg)
 
 2019-10-25
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1ktc6VvdCvEywomEXOuBuQNBfvxyaQKLX)
+![](/cdn/2019-07-21-closed-terrarium/IMG_20191125_074353153_r.jpg)
 
 2019-11-25
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=18cxxIztORACmd0VrRzWmZ9hPQzqCxxsC)
+![](/cdn/2019-07-21-closed-terrarium/IMG_20191129_233826891_r.jpg)
 
 2019-11-29
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1i-5hjUpsAuqKwgx6s_oW0wa0hV9F-mZ6)
+![](/cdn/2019-07-21-closed-terrarium/IMG_20191210_202855764.jpg)
 
 2019-12-10
 

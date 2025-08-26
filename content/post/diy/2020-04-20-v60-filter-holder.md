@@ -1,7 +1,7 @@
 ---
 date: '2020-04-20'
 title: Homemade Coffee Filter Holder
-image: https://drive.google.com/thumbnail?sz=w1000&id=1M0bCU34O8-Vb75qDP1VwTK1q9bl4I6CN
+image: /cdn/2020-04-20-v60-filter-holder/IMG_20200420_141709195.jpg
 url: '/diy/:slug'
 categories: ['diy']
 ---
@@ -12,29 +12,29 @@ Making a homemade coffee filter holder for hario v60
 
 * * *
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1P-kz-O_DUJLvNsKEi-GRathjd8dajzLx)
+![](/cdn/2020-04-20-v60-filter-holder/IMG_20200420_104555922.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1S5rphvtcsJj_MuQ_5WV02QOclQwIOPpf)
+![](/cdn/2020-04-20-v60-filter-holder/IMG_20200420_110511464.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1N0eVBBepRfO3usr-oTT_u4okSJtq9oNn)
+![](/cdn/2020-04-20-v60-filter-holder/IMG_20200420_112126740.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1ST-jUCYFSjngdK9_QTvUrg3kSUF68oUY)
+![](/cdn/2020-04-20-v60-filter-holder/IMG_20200420_114713433.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1YgSgvznHyZAoNQMWI8Sl0UyCbY0YXBxk)
+![](/cdn/2020-04-20-v60-filter-holder/IMG_20200420_120409472.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1rAHQM6PIxPz5JkWcy5vvh9plrSFQKeiv)
+![](/cdn/2020-04-20-v60-filter-holder/IMG_20200420_124846182.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1dBM5v5-N-dR4blAaK22Lr2vGv6AoiQ4P)
+![](/cdn/2020-04-20-v60-filter-holder/IMG_20200420_125450888.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1OHgHyIjhHLfvyNHAzimcP7jazIGdBK5m)
+![](/cdn/2020-04-20-v60-filter-holder/IMG_20200420_133403463.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1M0bCU34O8-Vb75qDP1VwTK1q9bl4I6CN)
+![](/cdn/2020-04-20-v60-filter-holder/IMG_20200420_141709195.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1x_QYN7AXKdWCMpsdliJO8QD0imxQnoJo)
+![](/cdn/2020-04-20-v60-filter-holder/IMG_20200420_141743774.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=17jc3SuenuBQUumjS0b9wc2Ymm8ZNBpSD)
+![](/cdn/2020-04-20-v60-filter-holder/IMG_20200420_141752448.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1GgVzOqf2OxlmBZzDIIABRZeGQuJQET9_)
+![](/cdn/2020-04-20-v60-filter-holder/IMG_20200420_142858434.jpg)
 
 * * * 
 

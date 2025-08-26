@@ -1,7 +1,7 @@
 ---
 date: '2020-01-04'
 title: Restoring a Typewriter
-image: https://drive.google.com/thumbnail?sz=w1000&id=1MdgGoPT_rYtlHMqWZT63o1LeF4rBS2wh
+image: /cdn/2020-01-04-restoring-typewriter/tw6_r.jpg
 url: '/diy/:slug'
 categories: ['diy']
 ---
@@ -12,73 +12,73 @@ Restoring a vintage typewriter and its leather case.
 
 ## Initial State
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1JL7K8qOjy_Mkh_C5zVMGyH3MU0PIyFM9)
+![](/cdn/2020-01-04-restoring-typewriter/tw1_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=19bMYgb3dtGn8J2SR5pyVLLzEIpj6Q0ct)
+![](/cdn/2020-01-04-restoring-typewriter/tw2_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1VRCZHs7xOecXyNBk1qCuYi8uFGRqvfIa)
+![](/cdn/2020-01-04-restoring-typewriter/tw3_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1IflsXNx_L2LE1OWH_YDAXxDUoAiLHUKg)
+![](/cdn/2020-01-04-restoring-typewriter/tw4_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1WCw9jbvg9YWYBvC864kwbsiPhVNHHcC_)
+![](/cdn/2020-01-04-restoring-typewriter/tw4.5.jpeg)
 
 ## Working on the typewriter
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1ymTGFsAZynxvZPlVFdFp0i4i-wu1YTu6)
+![](/cdn/2020-01-04-restoring-typewriter/tw5_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1MdgGoPT_rYtlHMqWZT63o1LeF4rBS2wh)
+![](/cdn/2020-01-04-restoring-typewriter/tw6_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1qbh3gHIgvofQXmTbna8UpmuZ52PZmgmQ)
+![](/cdn/2020-01-04-restoring-typewriter/tw7_r.jpg)
 
 replacing missing springs
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1TUTsUaHUeYBlpf6vd0Jcs2tl9gCehTxI)
+![](/cdn/2020-01-04-restoring-typewriter/tw8_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1vm-hmbNmvYYy_MUAW83vUlurna1XS8A9)
+![](/cdn/2020-01-04-restoring-typewriter/tw9_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1b5nm8xNGPl7gGGmgrqc-KOqWn6bWrUpw)
+![](/cdn/2020-01-04-restoring-typewriter/tw10_r.jpg)
 
 ## Moving to the leather case 
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=19VwdlsnSssI_8-6kwbi1nhvqcteSRno3)
+![](/cdn/2020-01-04-restoring-typewriter/tw12_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1GvWqKKxvzi2opG9MZ2yKLvAWdssg8Ag2)
+![](/cdn/2020-01-04-restoring-typewriter/tw13_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=14oevyPu149ZtDpnds1r7q6AbpQbe-ika)
+![](/cdn/2020-01-04-restoring-typewriter/tw14_r.jpg)
 
 ## Internals
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1f1-f9lcR2aDavBV4SO49NozJzjDT-LYo)
+![](/cdn/2020-01-04-restoring-typewriter/tw14.5_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1j-ext1g01t7A5D7Oe4AIGt2cYUq_X1GD)
+![](/cdn/2020-01-04-restoring-typewriter/tw15_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1F8BvH02CgoKz5zXg-umhPdtBiz3u-DJ_)
+![](/cdn/2020-01-04-restoring-typewriter/tw16_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1bSKKCzSWb9IJE7OBwYgiZMOPxxW4ro0B)
+![](/cdn/2020-01-04-restoring-typewriter/tw17_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=11iCUK_dINyruo8_TgFuASCcSue55NCsl)
+![](/cdn/2020-01-04-restoring-typewriter/tw18_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1WLDqe1arhdNtAGj3dSOzo2GVmAmA_cDu)
+![](/cdn/2020-01-04-restoring-typewriter/tw19_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=17lEVNIcJgqn09HJC1u8IjNgahcSfXIJF)
+![](/cdn/2020-01-04-restoring-typewriter/tw20_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1auz2SxzBMPx9-BMeFwOUHvrWLbfEHjDj)
+![](/cdn/2020-01-04-restoring-typewriter/tw21_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=18V_dAm-_d68mwf-Dc-AX_O6xol2qxt2S)
+![](/cdn/2020-01-04-restoring-typewriter/tw22_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=11IQzKhKWEfllW1km5UtFwivgUIdL-bkU)
+![](/cdn/2020-01-04-restoring-typewriter/tw23_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1g9cGbhqJaxQ1E-Vnr_bSIMRRZLAXpSsY)
+![](/cdn/2020-01-04-restoring-typewriter/tw24_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1VzmpSHMoJNNBNfO4RBPPo9W-ZW7lchZ1)
+![](/cdn/2020-01-04-restoring-typewriter/tw25_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1nRxgaKO5n-0CJhCcruMQsJ-WftNcP0RN)
+![](/cdn/2020-01-04-restoring-typewriter/tw26_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1zoA4cdF7_No_9ZVbioCiXmQolsHHUBwO)
+![](/cdn/2020-01-04-restoring-typewriter/tw27.5_r.jpg)
 
 ## Work done :)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1P2cX1aAqSrW1Cq9Ruble95jM33YmV7-7)
+![](/cdn/2020-01-04-restoring-typewriter/tw28_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1OP5GGZ-Po-kLPTWU15LN10JOdlaje-tZ)
+![](/cdn/2020-01-04-restoring-typewriter/tw29_r.jpg)
 

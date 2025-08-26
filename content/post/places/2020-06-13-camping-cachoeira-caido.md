@@ -1,7 +1,7 @@
 ---
 date: '2020-06-13'
 title: Camping Cachoeira do Caidô - Macaubau - SP
-image: https://drive.google.com/thumbnail?sz=w1000&id=1o7KNOZhnmfpS1F_YIMY2R5w7VhG8GcG3
+image: /cdn/2020-06-13-camping-cachoeira-caido/008_r.jpg
 url: '/places/:slug'
 categories: ['places']
 ---
@@ -10,53 +10,53 @@ Camping Cachoeira do Caidô - Macaubau - SP
 
 <!--more-->
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1k2uNDkcQPHeWgplJDc7OaykkCf5humwR)
+![](/cdn/2020-06-13-camping-cachoeira-caido/001_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1QVx7Fej3OnqzX3s79gzsKl_IY3CM4ZoE)
+![](/cdn/2020-06-13-camping-cachoeira-caido/002_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1gazJijQ4tKKIoe1ZrhQEhX7t2W8RcGZQ)
+![](/cdn/2020-06-13-camping-cachoeira-caido/003_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1Ov4x567au2rtZ6OVXHIY040Iep_Kb8IX)
+![](/cdn/2020-06-13-camping-cachoeira-caido/004_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=17pYcisUfI0-ycwudtTbnvXinyymuuI6r)
+![](/cdn/2020-06-13-camping-cachoeira-caido/005_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1LbcEIlKbxPMJTKjlbIkeZ5hvL29hABWS)
+![](/cdn/2020-06-13-camping-cachoeira-caido/006_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1o7aq4_WDeffGIZd1JaRFjRyn7kB7xVqq)
+![](/cdn/2020-06-13-camping-cachoeira-caido/007_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1o7KNOZhnmfpS1F_YIMY2R5w7VhG8GcG3)
+![](/cdn/2020-06-13-camping-cachoeira-caido/008_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1JrneSk9hZY6hq-8nUpFh4BuSNkYuBYn3)
+![](/cdn/2020-06-13-camping-cachoeira-caido/009_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1uVWs9sc596B88FEMmcCmhOiXIYMA0AK7)
+![](/cdn/2020-06-13-camping-cachoeira-caido/010_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1KH1fgPcR5H7b0SgS8a__0GWQiZ3Gn9Yt)
+![](/cdn/2020-06-13-camping-cachoeira-caido/011_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1m9A1XymNh2lIOaWj3QXBhFQK9XyX7O1e)
+![](/cdn/2020-06-13-camping-cachoeira-caido/012_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1TuadcfEDlZSCOYd5AcqSPJhmeasqf2PR)
+![](/cdn/2020-06-13-camping-cachoeira-caido/013_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1hpeAHOG7xOHSnuBICxEO5N8B606x5YjR)
+![](/cdn/2020-06-13-camping-cachoeira-caido/014_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1y5ofP-Po4PIVTl7ttfERBZhXfwDLCQCN)
+![](/cdn/2020-06-13-camping-cachoeira-caido/015_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1ecKyg98yy0J0lthTjLYYMwQ3gXe9LMpv)
+![](/cdn/2020-06-13-camping-cachoeira-caido/016_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1TS36B7_ewgfPN94ODSZO7erc8R8ak42y)
+![](/cdn/2020-06-13-camping-cachoeira-caido/017_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=182cYcfWhV5zw-KhLbDjKc9qtOr_OdWlL)
+![](/cdn/2020-06-13-camping-cachoeira-caido/018_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1Fqsf5nIspLL8cdYM9Rft_HG-CAXVTa2c)
+![](/cdn/2020-06-13-camping-cachoeira-caido/019_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1FZpv6afZNpKJLgr5ahhnnsDttgDtCan9)
+![](/cdn/2020-06-13-camping-cachoeira-caido/020_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1sBtMrtsav4bMSky3nbIExPtFQqyiz2Hq)
+![](/cdn/2020-06-13-camping-cachoeira-caido/021_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1z1AS3sCoJBIuV-uS5jtpAXGWyYecx2dx)
+![](/cdn/2020-06-13-camping-cachoeira-caido/022_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1eOeGB4NEyxNYkdkJ3VNAIqjGBINg7Pkf)
+![](/cdn/2020-06-13-camping-cachoeira-caido/023_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1dAFjX2BcQFAd8U2Kqu7s-BOmPT3L1iZh)
+![](/cdn/2020-06-13-camping-cachoeira-caido/024_r.jpg)
 
 
 * * * 

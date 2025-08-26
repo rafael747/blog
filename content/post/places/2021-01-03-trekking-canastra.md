@@ -1,7 +1,7 @@
 ---
 date: '2021-01-03'
 title: Trekking Serra da Canastra - Delfinópolis - MG
-image: https://drive.google.com/thumbnail?sz=w1000&id=1OsDtWXk0v6Zrly1AoHfAisJ-6u_lOF4l
+image: /cdn/2021-01-03-trekking-canastra/00_r.jpg
 url: '/places/:slug'
 categories: ['places']
 ---
@@ -17,11 +17,11 @@ There is an episode on Dani's podcast about this trekking. For this episode in s
 
 We left Rio Preto on friday around 5pm. 
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1W4jTpVd69GcRGEeuqFZoH2vzerCpj4y4)
+![](/cdn/2021-01-03-trekking-canastra/01_r.jpg)
 
 The trip would last about three hours, but an additional one was just waiting for the ferry to get into Delfinopolis.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1l_nMmbKabKcwhA6NOhyu2Gvd2H_wzf4a)
+![](/cdn/2021-01-03-trekking-canastra/02_r.jpg)
 
 We got there about 11pm and went directly to the dinner, which was amazing after a long trip.
 
@@ -29,18 +29,18 @@ In the night we discussed the itinerary for the next day with Zelito (owner of t
 
 He helped us a lot and even draw a map of his own mind.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1KbZjEeFMObK7lI-TKDRb1gyCOZ8UqjEV)
+![](/cdn/2021-01-03-trekking-canastra/03_r.jpg)
 
 In the morning, we had a good breakfast at the camping site before a long day to come.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1I2jAiLr4rHO1oww4hH9tUcHu1auJamSy)
+![](/cdn/2021-01-03-trekking-canastra/04_r.jpg)
 
 We left the camping site about 9am, which was pretty late, due to the intense sun that day.
 
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1DJqEunyqV-Wu17BFM7r762Od7qefOQjk)
+![](/cdn/2021-01-03-trekking-canastra/05_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1N-7wWHr6Ph2wjuA7B1A27zQemNVr3Lin)
+![](/cdn/2021-01-03-trekking-canastra/06_r.jpg)
 
 This is the tail of the first day, there were some changes to the original plan, but everything went fine.
 
@@ -53,45 +53,45 @@ We passed through the Claro camping and went to Paraiso complex.
 
 This is where we had our first break and stopped for lunch.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=15G2eAJ7lxYV-xKYnofBKVYkt03pIz9eA)
+![](/cdn/2021-01-03-trekking-canastra/07_r.jpg)
 
 After a while we continued our journey, there was a lot to walk yet.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1DQJBPMYC679bfQAWve4sKYnwskgl_OHa)
+![](/cdn/2021-01-03-trekking-canastra/08_r.jpg)
 
 The trail along the Paraiso complex was well demarcated and easy to follow.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1x0JcP35nelyGN2WsBLdtyIXh5Ouc0mOj)
+![](/cdn/2021-01-03-trekking-canastra/09_r.jpg)
 
 It was a very hot day and we needed to cool down in the waterfalls in the path.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1b8M2VKYTe3EYgmSkzIA2oKQvXV81Xnjl)
+![](/cdn/2021-01-03-trekking-canastra/10_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1EjjmXqceZrOcX-Z-xjbJvRYxT613ZykS)
+![](/cdn/2021-01-03-trekking-canastra/11_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1DZngxuChM5Sd9oA5CfStpQRIsnGZs034)
+![](/cdn/2021-01-03-trekking-canastra/12_r.jpg)
 
 We kept climbing even higher.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1aBnjQ0O3CaRALM3B51IKs6irvYvn7Lrh)
+![](/cdn/2021-01-03-trekking-canastra/13_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1Ico-AWo2gFscq1Y228mYhl_rRn5FL5ae)
+![](/cdn/2021-01-03-trekking-canastra/14_r.jpg)
 
 I think that this was the hardest moment of the hiking. The backpack was also very heavy (and not well packed)
 
 <iframe src="https://drive.google.com/file/d/1u7KcqbBU_kusJCYOakCjv3XKR_dXY1RG/preview" class="is-fullwidth" height="480"></iframe>
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1hH0Dp16Z-o42b2kgFND-zhUOmUdbEcvM)
+![](/cdn/2021-01-03-trekking-canastra/16_r.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1u1TLLO_4VQpxnReHgTc77VoRHokpD2dF)
+![](/cdn/2021-01-03-trekking-canastra/17_r.jpg)
 
 At this point, we went to the last waterfall of the complex: Cachoeira do Triangulo
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=11t89nMnmvIh-e0d-0TbmnbxYZ9hClsSa)
+![](/cdn/2021-01-03-trekking-canastra/18_r.jpg)
 
 The name is self-explanatory.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1QjMQaxS0KgYMDtFSWMSxXq-G3UhGaHmp)
+![](/cdn/2021-01-03-trekking-canastra/19_r.jpg)
 
 At this point, the original plan was to keep climbing around the waterfall until the dirt road, and then our wanted camping spot: Seu Lazinho
 
@@ -99,52 +99,52 @@ Unfortunately, we were following an old trail in wikiloc, so a lot had changed i
 
 This way, we decided to turn back all the way until the main dirt road, outside the Paraiso complex (as you can see in the trail in wikiloc).
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1kBN1GJsvbMYRCEVmzaNliZ3JhuNL7Wkg)
+![](/cdn/2021-01-03-trekking-canastra/20_r.jpg)
 
 At that moment, we were quite disappointed because we couldn't get to the desired camping spot.
 We decided to sleep in the lookout of this dirt road, which was a long walk ahead.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=16Cm_gSECIHMLc-RWWHqDMmrHiG1MP9Qk)
+![](/cdn/2021-01-03-trekking-canastra/21_r.jpg)
 
 It was getting dark and we were very tired, gladly we could get a ride from Euler and Rosi.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1lBUtxYy0yvZev2v_ejue0qYiVP34KHWR)
+![](/cdn/2021-01-03-trekking-canastra/22_r.jpg)
 
 They helped us a lot, without the ride we would not get there in time to see this amazing sunset.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1PORIMX8jRZ6sTCTLzySDgyxGDRUYmXzJ)
+![](/cdn/2021-01-03-trekking-canastra/23_r.jpg)
 
 We set up our tent very quickly and even had some time to drink wine and talk with this amazing couple.
 
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1T1QNCwuCY-FWWghP52lUODRP8DSVUEdx)
+![](/cdn/2021-01-03-trekking-canastra/24_r.jpg)
 
 After a while they had to go away, leaving us alone to enjoy that wonderful view.
 
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1eXWQThnDH2VyeIsa7feaaiUy6TAuIYTZ)
+![](/cdn/2021-01-03-trekking-canastra/25_r.jpg)
 
 We were very tired, so we didn't take long to fall asleep. The heavy winds scared us a bit in the night, but we could get a good night of sleep.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1M8Hrg43e36UaPa9elpn7WYlxDvWejaml)
+![](/cdn/2021-01-03-trekking-canastra/25_5_r.jpg)
 
 In the morning, even before the sunrise we already had our coffee ready.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=11eTXzyOPlmG0FfZnSM_BSDlUuzCLICr2)
+![](/cdn/2021-01-03-trekking-canastra/26_r.jpg)
 
 we took some time to enjoy the sunrise, to finally pack our stuff and keep our journey back to the campsite. After all, this was a weekend trekking and we had to go back to our city.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1dCGPnycva28XDjhgTA_FQ4nKmbwvUW9r)
+![](/cdn/2021-01-03-trekking-canastra/27_r.jpg)
 
 While we were packing our stuff, a motorcycle shows up next to us. At first we didn't understand why someone would be there so early (and in a regular motorcycle, not a trail one).
 
 After a while we figured out the reason, the biker probably set a place next to the road on fire, as you can on the next picture.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1L7YplPoWVfALuJxof8ULc1uDBzWJ3-Lp)
+![](/cdn/2021-01-03-trekking-canastra/28_r.jpg)
 
 It is unbelievable that someone would do such a thing like that. We were very worried to pass on that place because of the fire, but we hurried to get to the other side as soon as possible. After all, it was the only way available for us.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1O_U9y9cJyiEdjhYMU2BG0cB_Q4WdaJmV)
+![](/cdn/2021-01-03-trekking-canastra/28_5_r.jpg)
 
 On the way back to the Claro complex, we tried to alert the authorities about such event, but we failed due the week mobile signal. At the same time, we alerted everyone that passed by us on the road.
 
@@ -152,11 +152,11 @@ It was only when we got to the Claro complex that we could alert the gate keeper
 
 Also at the Claro complex we had lunch and rested a bit in the waterfalls.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=157reUqESvlOJ8tBgr7--KVS_edjqdBX5)
+![](/cdn/2021-01-03-trekking-canastra/29_r.jpg)
 
 And then we kept our hiking to the camping site. That was a very hot day and the sun was burning like hell!
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1eYYaiV6jquhc7oSMPLCDdH0fg6L9dT4L)
+![](/cdn/2021-01-03-trekking-canastra/30_r.jpg)
 
 We got to the campsite, took a shower and started to get ready to go back home.
 

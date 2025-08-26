@@ -1,7 +1,7 @@
 ---
 date: '2023-04-04'
 title: Ricoh KR-10 Super - black and white pictures
-image: 'https://drive.google.com/thumbnail?sz=w1000&id=1TvAthj7t6ZChGh48CwdwNQ7czwSAKCbO'
+image: '/cdn/2023-04-04-ricoh-kr10s-part1/SKM_C45823051212090_0015.jpg'
 url: '/places/:slug'
 categories: ['places']
 ---
@@ -12,47 +12,47 @@ I found the deal in an APP called [Nebenan](https://nebenan.de/) which by the wa
 
 <!--more-->
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1wpwxo40BhKugbnOcMdoVWZd_QHUdLUB1)
+![](/cdn/2023-04-04-ricoh-kr10s-part1/IMG-20220905-WA0004.jpg)
 
 On the pickup date I had almost a workshop on how to operate the camera. It was very nice to see that the other person was really interested in passing it forward so other people can still make good use of it, and not use it as a decoration item.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1BZyWgHAGoTfPYGe21zFrqiph3r2D94E0)
+![](/cdn/2023-04-04-ricoh-kr10s-part1/IMG_20230513_160201.jpg)
 
 The film roll used was a Kodak 400 TMAX which was expired since 2009, so almost 15 years
 
 The film was developed in DM's service called [fotoparadies](https://www.fotoparadies.de/). It took around 15 days and costed around 10 euros
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1IDJQvV5Gs6pyddDU2KSRPDXx2ZAjoR5X)
+![](/cdn/2023-04-04-ricoh-kr10s-part1/SKM_C45823051212090_0002.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1dAr_QkAYegYVgji1zlHRM_eZv6oAZQx_)
+![](/cdn/2023-04-04-ricoh-kr10s-part1/SKM_C45823051212090_0001.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1iBIuRMS59B0GihzDOlh_Zc5EQv9l-RcO)
+![](/cdn/2023-04-04-ricoh-kr10s-part1/SKM_C45823051212090_0003.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1cNmqH7Ya_u5O37hYibGBeOMOmg3wpmVh)
+![](/cdn/2023-04-04-ricoh-kr10s-part1/SKM_C45823051212090_0004.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1OxNJTYK7k_u-pxvNJjbAJLftj6k-WJIq)
+![](/cdn/2023-04-04-ricoh-kr10s-part1/SKM_C45823051212090_0005.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1xUzI8vm4X4hL7D-StMM7DRKSfm7Ahys-)
+![](/cdn/2023-04-04-ricoh-kr10s-part1/SKM_C45823051212090_0006.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1S8XcOes-IrQiV-MrL4fqmv-0IAoY5xWw)
+![](/cdn/2023-04-04-ricoh-kr10s-part1/SKM_C45823051212090_0007.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1RJ93Ug0DY_kSLl5-qTsOO6J7v7bIv3ki)
+![](/cdn/2023-04-04-ricoh-kr10s-part1/SKM_C45823051212090_0008.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1Q1SDrK9yQ_ViD-feed2ZfEYOqmdWCrgQ)
+![](/cdn/2023-04-04-ricoh-kr10s-part1/SKM_C45823051212090_0009.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1qO9laLOgpmB8ek5_XcCh99zRAvaggVtk)
+![](/cdn/2023-04-04-ricoh-kr10s-part1/SKM_C45823051212090_0010.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=120y72R0vD7R3zf8PEdjMPFlGZbJwiez7)
+![](/cdn/2023-04-04-ricoh-kr10s-part1/SKM_C45823051212090_0011.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1w8e42gsrCBrYsDJr5wJH0lkP6PNH2M6v)
+![](/cdn/2023-04-04-ricoh-kr10s-part1/SKM_C45823051212090_0012.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1aYydb3bceTCEe8IAR6gng_pcOgeFVXBE)
+![](/cdn/2023-04-04-ricoh-kr10s-part1/SKM_C45823051212090_0013.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1Z7GbjI3ixiqkdZmMSPmTZnM7bH95l25j)
+![](/cdn/2023-04-04-ricoh-kr10s-part1/SKM_C45823051212090_0014.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1TvAthj7t6ZChGh48CwdwNQ7czwSAKCbO)
+![](/cdn/2023-04-04-ricoh-kr10s-part1/SKM_C45823051212090_0015.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1FaWueDVTDHEPb0tEkHRIviqUBCxOdYBx)
+![](/cdn/2023-04-04-ricoh-kr10s-part1/SKM_C45823051212090_0016.jpg)
 
 
 * * * 

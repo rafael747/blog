@@ -1,7 +1,7 @@
 ---
 date: '2022-03-24'
 title: Münchner Jakobsweb Part 1 (Munich -> Lechbruck)
-image: https://drive.google.com/thumbnail?sz=w1000&id=1ve4KEW3JWWJd8oBi3Zo-P2QAa0vocMsL
+image: /cdn/2022-03-24-jakobsweb-part1/IMG_20220328_122337(1).jpg
 url: '/places/:slug'
 categories: ['places']
 ---
@@ -15,25 +15,25 @@ You can find the all steps [here](https://jakobsweg-lebensweg.de/deutschland/mue
 
 ## Munich -> Schäftlarn (26km)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1Xuny9HmSAgcdGz8bdPc-ufuRN86g4Iq7)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220324_081346.jpg)
 
 This is the starting point, [Munich - St. Jakob am Anger](https://goo.gl/maps/hgdkCKPSnkt3mt74A)
 
 You can get the pilgrim credential with an appointment [here](https://schulschwestern.de/jakobuspilger/)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1996VFMKjCmYCaoD5JOJtvUFzfzB4UMEG)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220324_094651.jpg)
 
 Most of the way on the first day is along the river Isar, which runs through Munich.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1zmEa1tObgZJfJqFHgT1Uxzxg-dR0L_O5)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220324_104805.jpg)
 
 First pause of the day.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=17EUHHNbYVFJctz_N2T0m8ohiyd5hqx-r)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220324_141124.jpg)
 
 This is the destination of the first day, [Kloster Schäftlarn](https://goo.gl/maps/mfWzLW62eA1cAbqD9)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1ZVl-_n_NPlhId1rkJYdvirW6tLXYEUwE)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220324_192454.jpg)
 
 Having some nice ribs for dinner in [Klosterbräu Stüberl](http://www.klosterbraeustueberl-schaeftlarn.de/).
 
@@ -41,23 +41,23 @@ This place also offers accommodation, and that's where I stayed this day.
 
 ## Schäftlarn -> Andechs (29km)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1KlKU0yv_rkMoU3YbnVwwXmffVweulXKX)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220325_085240.jpg)
 
 The weather was super nice 
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1UWnYWEw1Ky0JYZ7hyls19fHjZql9I2EX)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220325_103917.jpg)
 
 Passing through Starnbern, with a nice view to Starnberger See
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1pMtoiCoYTqSzFsbPpPaDcnjkkpD0nIvB)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220325_122425.jpg)
 
 A quick break in [Maisinger Seehof](https://g.page/MaisingerSeehof)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1cv2O2ab_PnZM_3P0X_mCW4yq1mtRDoBz)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220325_160116.jpg)
 
 Destination for today, [Kloster Andechs](https://goo.gl/maps/DRXmyRmANGhTXash9)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=19zUX2BbtaipjaVQUslxsS4efKSrKHvNV)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220325_145606.jpg)
 
 Having a late lunch with Petra, a very friendly pilgrim I met on the way :)
 
@@ -67,61 +67,59 @@ Since the Kloster Andechs was closed for pilgrims, I stayed in [Pension Stiefelw
 
 ## Andechs -> Wessobrunn (26km)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=19vFeq5Pdj0WosewU1752GScmQSpWIC7K)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220326_105858.jpg)
 
 Starting my third day of hiking.
 
 At this point I could see a huge group from the https://mammutmarsch.de/. And I was thinking that I had already walked a lot :)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1c1FPGRrxzZgOrzc1SH0tjNfozWqIw_yv)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220326_131133.jpg)
 
 Lunch break in [Gasthof Drexl - Raisting](https://goo.gl/maps/zMiTaT4SFQaBWg2z6)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1WmntLHLpjTbpkVtoh0l4Md95Z5SGeH4e)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220326_151354.jpg)
 
 Maybe one day from Munich...
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=149N2PniuYC0m5ssrkjwjvc8MxobMAqXw)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220326_153422.jpg)
 
 Destination of the day, [Kloster Wessobrunn](https://goo.gl/maps/DgBmSofkXUvVANgB6)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=11mdFvbpBN6LKpMySjXDO1kVgq3q-1HGI)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220326_185754.jpg)
 
 Dinner at [Gasthof zur Post](https://goo.gl/maps/5tGrFDyVxTbhLB86A)
 
 ## Wessobrunn -> Rottenbuch (29km)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1jFFvBnQ2Z6SsXMGmXn9Le5s6seNapeNc)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220327_083018.jpg)
 
 Very cozy breakfest room in [Walserherberge](https://walserherberge.thielse.de/), the place I stayed.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1XWJ6uesmyDZ9ZwxkQniAs3wQxikigydz)
-
 Fourth day of hiking, through very nice places
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1O-nP-5Zd0rc2ksA0etPS69FhBdggPo3W)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220327_092007.jpg)
 
 Holzkuh :)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1WsdQK9rd8gKUgoPopZB1-vMuFfWOtSWc)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220327_111631.jpg)
 
 Wooden St. Jakob
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1PUKl8y--6f5AU7z7v5ZTxhjEJK5EjS2Y)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220327_113644.jpg)
 
 Short break in [Bayerischer Rigi](https://goo.gl/maps/xZKuL2uY841yBXhF8) with a nice view
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1DXCGOQzwZB5vx8DzllUAQewDwgzlD4ES)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220327_140136.jpg)
 
 Next to the Ammer river
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1XBUwazCJr0Il1Je4OM_cJ3j0uiVfixPt)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220327_142827.jpg)
 
 Ammertal nature preserved area
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1UGeSORNjqga5anpLX9cpFzCMWMTyrW4M)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220327_145910.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1N6gjrhdRtF1ihV1_QtnT72eKKnj9MWia)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220327_155237.jpg)
 
 View to the [Mariä Geburt](https://goo.gl/maps/YLGTYhM5hiJyNXgb7) church
 
@@ -129,25 +127,25 @@ This day I stayed at [Gänse-Blümchen - Rottenbuch](https://www.keller-rottenbu
 
 ## Rottenbuch -> Lechbruck (29km)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1hpNNcZ2UrzR0qC3vozPpNJzzb-rgdZ3T)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220328_085912.jpg)
 
 Starting the fifth day of hiking and I've already made a new friend
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1K5lvEeu_6NlxQfoBgXxks7GFHTmSWeyz)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220328_091520.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1OVXUdewXV11T7CDESamkbzJRXh7x72Zi)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220328_111414.jpg)
 
 Nice wooden path right after the Wies kirche
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1Z0Xjq2pn18KKDSM_eFu7UcbXJ8BAeJxp)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220328_111705.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1WvNNTKYnx115iKjiRe961DfzsnEgJuUI)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220328_122337.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1TjgbGN1qo1I47YyZi4OsKxgnx9JFzDTu)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220328_153426.jpg)
 
 This was the final destination, in Lechbuck.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1TrgiWidhT2-vpWBtqCQeB4OuYov1lal2)
+![](/cdn/2022-03-24-jakobsweb-part1/IMG_20220328_160520.jpg)
 
 It was a wonderfull weedend with nice weather and landscapes, already looking forward to the second part, from Lechbruck to Lindau
 

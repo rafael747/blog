@@ -1,7 +1,7 @@
 ---
 date: '2023-04-07'
 title: Schweizer Jakobsweb Part 1 (Rorschach -> Rapperswil)
-image: 'https://drive.google.com/thumbnail?sz=w1000&id=1PGPh6AhhjzHbJmqk6TwUTPew4KSp9w3N'
+image: '/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230408_103936.jpg'
 url: '/places/:slug'
 categories: ['places']
 ---
@@ -14,11 +14,11 @@ You can find the all steps [here](https://camino-europe.eu/de/eu/switzerland/jak
 
 ## Munich -> Rorschach (train + boat)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=18ywYuwsqxoe32Ph_AZXxsHawlS3t0WZX)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/SKM_C45823051212090_0007.jpg)
 
 We took a train from Munich to Lindau, and then a boat from Lindau to Rorschach. You can check the Timetable for this boat trip in this [website](https://www.bsb.de/en/timetable).
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1eG6iHNDUQCbhWZPuFbNb7-z3UPGruf25)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230407_115317.jpg)
 
 This was the starting point for us, [Rorschach Hafen](https://goo.gl/maps/TqeqRUHehxLQCrzG6)
 
@@ -26,21 +26,21 @@ Then we were ready to start the hike
 
 ## Rorschach -> St. Gallen (18.5km)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1QPbo7vVK6-CZb2JKCcgSMmht6-3h1e24)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230407_135120.jpg)
 
 We opt for a shorter hike in the first day since it is a long way to get into the start point. We started our hike around 1pm.
 
 The weather was cloudy and a bit cold but still very nice for hiking
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=14_4pAIgCqz1jhw6Qbkm_C0htRZom8n0X)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230407_140433.jpg)
 
 One of many selfservice shops that we found on the way
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1Llp5XwZUnMgWdS7_eRJUEj7UyLSc5EPd)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230407_164011.jpg)
 
 Feeling a bit closer to home
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1MFy82iX6XxQOZ38R0ErBdOxJxdCUS342)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230407_170618.jpg)
 
 Arriving in St. Gallen.
 
@@ -48,77 +48,77 @@ Destination for today, [Pilgerherberge Sankt Gallen](https://www.pilgerherberge-
 
 We were received with warm tea and after a nice talk we went out to buy something for dinner. Even though it was a holiday, we could find some open stores to buy the easiest food to prepare: pasta 
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1LCsGrNT9a5mvU_BMjPnprP-u0xMhlsWh)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230408_083437.jpg)
 
 We had a nice kitchen available for us to prepare dinner and breakfast.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1__cb0-jJEii31NzGGts4wTaWZc5EaP5w)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230408_084621.jpg)
 
 And this was our room for the night
 
 ## St. Gallen -> St. Peterzell (27.8km)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1Apc0LDW72O-yUKTZRKtD2Qpd9Nr83fGt)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230408_085553.jpg)
 
 After a quick breakfast we started our second day of the hike
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1PGPh6AhhjzHbJmqk6TwUTPew4KSp9w3N)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230408_103936.jpg)
 
 It was a rainy day since the start, but still confortable.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1R7Kbc4lhakuI6lSv6qym4YwtFSNbL1q7)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230408_121932.jpg)
 
 Our first stop of the day. Later we got to know that everyone that stayed in the same accomodation in the day before actually stopped in this place too.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1iZVEu7uRF4a9-L7vvbHZuPItawF2W2BL)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230408_132128(1).jpg)
 
 Here we could meet Fritz and Selena again. We stayed in the same accomodation in the day before, but this time we could spend some time together and talk more. They are doing the full way from Munich until Santiago de Compostela, around 4 months hiking. The were super nice and it was a pleasure to hear their story.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1ZjLdk3CdrXh50AnySbW8oxzr1FYNFFFF)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230408_160826.jpg)
 
 The weather was still very unstable, raining and stopping from time to time
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1Bh5q73MkCIqdrYdpD99aKGhff5Rdn6tq)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230408_161148.jpg)
 
 We were stopping from time to time to enjoy the small moments
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1DsGNHR5wQOaQ22h5qqD4tr_Q-cvOn-9r)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/original_f5c5e7fc-f98e-4ed9-93f9-d9e98894f629_IMG_20230408_195602.jpg)
 
 After 2 hours of heavy rain, we reached our destination, [Casa Claudia St. Peterzell](https://www.casa-claudia.ch/). 
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1qW66zgehh6xjSXvhPlLDQ9V-DCay0TVo)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230408_190258.jpg)
 
 We stopped for a while and after a nice talk with our hosts we went to a local restaurant nearby. 
 
 Back to our accomodation. The place was absolutely beatiful and well decorated.
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1G6pIgmnaTcFJnJHQKjMuQcVTFWvJi1XV)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230409_074208.jpg)
 
 This was our room for the night
 
 ## St. Peterzell -> St. Gallenkappel (25km)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1IkicijxYS5Ok50dqosMZesS288ebhr0g)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230409_074832.jpg)
 
 It was Easter and we had a very special breakfast
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1T0rttyncYveckwUQqlwLA6BFLdtAGKwm)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230409_074848.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1jOEU_OPpslwk9-ajVykUqBI61CIAqpqZ)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230409_074259.jpg)
 
 We took a picture with Claudia and started the hike
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1AmmyEDppAZzCxxnS4_Czj_mkW3QpTXBe)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230409_094307.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1lQojNryPiObz0QGnVK16N2AprPkranwF)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230409_101251.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1CDpC2cI59f2GpaUTttYchQQL4SWTBT-T)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230409_113142.jpg)
 
 Of course we would make friends on the way 
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1d7r5kkvQvGKoqkQyK0lDM5XeYYedAV7i)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230409_113152.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1QrdFEvLgGzpBAc5mhcu5cymT5Sev0uRk)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230409_135643.jpg)
 
 Short break in [IBurg](https://de.wikipedia.org/wiki/Burg_Iberg)
 
@@ -126,7 +126,7 @@ I hope apple don't take over this place :)
 
 Destination for today, [Tschümperlin family](https://www.goldingertal.ch/index.cfm/de/uebernachten/schlafen-im-stroh/).
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1PrccUMgGqEXa1cmp40o-jj5woH8KsxiU)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230409_181415.jpg)
 
 This was an amazing and unique experience of sleeping in the hay
 
@@ -134,19 +134,19 @@ Just be careful because it gets a bit cold during the night
 
 ## St. Gallenkappel -> Rapperswil  (15km)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1tmjvBst-BpZ0y4dQN6QysZSKbxiJP__A)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230409_195815.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1kz6RrsalLQZH7Gb1RM8_RobTl2_E6uEQ)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230410_073208.jpg)
 
 After a good breakfast we were ready for the last day of the hike 
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1fETJdgxn-cDz994v4aTKihIsBaEHPysS)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230410_081124.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1TNYlFk4oM83nabREIdcc_sgJU77CMecE)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230410_101545.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=1rRVPZ2iIZ1ECweIlAjnnZ6b-n1-P3TvO)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230410_104923.jpg)
 
-![](https://drive.google.com/thumbnail?sz=w1000&id=12yjQTOOgVhQl7HKTmOQjSpcUsDoeWeUZ)
+![](/cdn/2023-04-07-schweizer-jakobsweb-part1/IMG_20230410_165023.jpg)
 
 This was a short day of hike
 
