@@ -1,6 +1,7 @@
 ---
 date: '2019-07-26'
 title: Share a local port using localhost.run
+slug: share-a-local-port-using-localhost-run
 image: /img/localhost-run/site.png
 url: '/tech/:slug'
 categories: ['tech']

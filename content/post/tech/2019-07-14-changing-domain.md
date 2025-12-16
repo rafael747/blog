@@ -1,6 +1,7 @@
 ---
 date: '2019-07-14'
 title: Changing domain name to teffa.dev
+slug: changing-domain-name-to-teffa-dev
 image: https://drive.google.com/thumbnail?sz=w1000&id=1_XTGB8eTsGProJ_TMxMcdbEeVS3YE9LK
 url: '/tech/:slug'
 categories: ['tech']
